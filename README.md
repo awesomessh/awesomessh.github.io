@@ -1,1614 +1,844 @@
-
-
-<p align="center" style="color:blue">
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <h2 align="center">
-        网站内容持续更新中...
-    </h2>
-  </a>
-</p>
-
-<!-- <p>
-  <br>
-</p> -->
-
-
-<p align="center">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_index.15y992dieibg.png" width=""/>
-    </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
-  <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a>
-  <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
-  </a>
-</p>
-
----
-# **为什么会有这个网站**
----
-
-> [!TIP]
->  本站取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
->  
->  旨在为编程自学者提供一系列：
->  - **清晰的编程自学路线**
->  - **各编程岗位方向的知识点梳理**
->  - **靠谱的资源**
->  - **高效的工具**
->  - **务实的技术文章**
->
-> 方便自己也方便他人。网站内容会保持**持续更新**，欢迎收藏品鉴！
-
----
-# **本站内容地图**
----
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
-
----
-# **编程自学路线+知识大梳理**
-
----
-> [!NOTE]
->  本站目前整理收录了6个大方向（岗位）的学习路线+知识点大梳理，分别为：
->  
->  - **Java后端开发**
->  - **前端开发**
->  - **C/C++后台开发**
->  - **大数据开发**
->  - **嵌入式开发**
->  - **网络安全方向**
->  
-
-后续本站也会持续更新和增加更多方向岗位的学习路线...
-
----
-
-<!-- tabs:start -->
-
-### **Java后端开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/jawa.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
-
-### **前端开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/front.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《前端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/_8lvpPDArM_Z-MI9iul1AA)
-
-### **大数据开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/bigdata.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
-
-### **嵌入式开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/embed.pdf
-```
-
-> [!TIP]
->  详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
-
-### **C/C++后台开发**
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/c.pdf
-```
-
-### **网络安全方向**
-
-> [!TIP]
->  详情链接 **→** [《网络安全方向学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/pPs5Gm9I3a6-nMZQ42kaWg)
-
-<!-- tabs:end -->
-
----
-# **常用编程软件和工具**
----
-> [!NOTE]
->  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
->  
->  - [**【置顶笔记下载2】再肝两夜，写了个「服务器项目部署」实战PDF手册**](https://mp.weixin.qq.com/s/JUJ6qu_ec3s1JmTxQt_V3g)
-
-> **工欲善其事，必先利其器！**
-
-一个易上手、好用、高效的软件工具对于程序员工作效率的提升是不言而喻的，这些常用开发软件和工具比如：
-
-> - 基础的软件开发环境和设施
-> - 好用高效的在线工具和网站
-> - 本地常用的一些编程软件
-> - Linux操作系统
-> - 版本控制工具
-> - 高效的IDE和编辑器
-> - API管理工具/文档管理工具
-> - CI守护系统
-> - ...... 等等
-
-接下来我们一项一项详细盘点。
-
----
-## 常用在线工具集
----
-
-> [!NOTE]
->  - [**【本章节置顶资源下载】自学编程一路走来，这些私藏工具和网站我全贡献出来了！（附我的浏览器书签下载）**](https://mp.weixin.qq.com/s/XUHnLCbq7mDWhOc9imTVzg)
-
-程序员在平时的日常**工作**、**学习**、**开发**、**做笔记**、**写博客**等过程中还是有很多好用并且高效的**在线工具推荐**的，毕竟我们不是每时每刻我们都需要那种很重量级的本地软件。下面将分成**16个大类**，共整理了约**130+个**常用的在线工具和网站供大家食用。
-
----
-
-<!-- tabs:start -->
-
-#### **在线画图工具**
-
-程序员经常接触的无非也就是流程图、思维导图、原型图、UML图、网络拓扑图、组织结构图等等这些。下面这四个在线画图网站我想应该足够了，其中那个processon是我用得最多的，历史文章中几乎所有相关的图形都是用它绘制，然后导出图片的。
-
-- [**在线画图工具ProcessOn**](https://www.processon.com/)
-- [**在线画图工具Draw.io**](https://app.diagrams.net/)
-- [**在线思维导图工具MindLine**](http://www.mindline.cn/webapp)
-- [**PlantUML在线编辑器**](http://haha98k.com/)
-
-#### **在线编解码工具**
-
-- [**BASE64编解码工具**](https://base64.supfree.net/)
-- [**MD5编码工具**](https://www.zxgj.cn/g/md5)
-- [**AES/DES加解密**](http://www.fly63.com/tool/cipher/)
-- [**JWT解码工具**](http://jwt.calebb.net/)
-- [**ASCII编解码工具**](https://www.matools.com/code-convert-ascii)
-- [**Unicode编解码工具**](https://www.zxgj.cn/g/unicode)
-- [**UTF-8编解码工具**](https://www.zxgj.cn/g/utf8)
-- [**字符串编解码工具**](https://www.zxgj.cn/g/enstring)
-- [**URL编解码工具**](http://tool.chinaz.com/tools/urlencode.aspx?jdfwkey=lbixz1)
-
-#### **在线转换工具**
-
-- [**在线ASCII码对照表**](http://www.fly63.com/tool/ascii/)
-- [**通用进制转换工具**](https://www.zxgj.cn/g/jinzhi)
-- [**在线浮点数十进制转换**](http://www.binaryconvert.com/)
-- [**RGB颜色转换**](https://www.zxgj.cn/g/yansezhi)
-- [**时间戳转换工具**](https://www.zxgj.cn/g/unix)
-- [**计量单位换算工具**](http://www.fly63.com/tool/unitable/)
-- [**在线JSON解析**](http://www.json.cn/)
-- [**在线JS代码格式化工具**](https://prettier.io/playground/)
-- [**SQL压缩/格式化工具**](https://www.zxgj.cn/g/sqlformat)
-- [**JSON和XML在线转换**](https://www.zxgj.cn/g/jsonxml)
-- [**JSON/YAML在线转换**](http://www.fly63.com/tool/jsonyaml/)
-- [**人民币大小写转换工具**](http://www.fly63.com/tool/renmingbi/)
-
-#### **正则表达式工具**
-
-- [**正则表达式调试工具**](https://regexr.com/)
-- [**正则表达式可视化工具**](https://jex.im/regulex/)
-
-#### **网络工具**
-
-- [**IP地址归属地查询**](https://www.ip138.com/)
-- [**IP地址查询**](https://www.ipip.net/ip.html)
-- [**HTTP在线接口测试工具**](http://www.fly63.com/php/http/)
-
-#### **在线编译运行工具**
-
-- [**C#在线编译运行**](https://rextester.com/)
-- [**C/C++在线编译调试**](https://www.onlinegdb.com/)
-- [**在线编译工具套装**](https://c.runoob.com/)
-
-#### **可视化/格式化工具**
-
-- [**在线前端编辑器**](https://codepen.io/)
-- [**在线数据可视化**](https://flourish.studio/)
-- [**在线JSON解析**](http://www.json.cn/)
-- [**在线CSS代码可视化工具**](https://enjoycss.com/)
-- [**XML格式化工具**](https://www.zxgj.cn/g/xmlformat)
-- [**在线JS代码格式化工具**](https://prettier.io/playground/)
-- [**SQL压缩/格式化工具**](https://www.zxgj.cn/g/sqlformat)
-- [**JSON和XML在线转换**](https://www.zxgj.cn/g/jsonxml)
-- [**JSON/YAML在线转换**](http://www.fly63.com/tool/jsonyaml/)
-
-#### **在线生成器**
-
-- [**UUID在线生成器**](https://www.zxgj.cn/g/uuid)
-- [**随机数生成器**](https://www.zxgj.cn/g/suijishu)
-
-#### **其他常用在线开发相关工具**
-
-- [**在线Nginx配置工具**](https://nginxconfig.io/)
-- [**在线文本代码比对工具**](http://www.fly63.com/tool/textdiff/)
-- [**在线Chrome浏览器插件**](https://www.crx4chrome.com/)
-- [**在线接口文档管理工具**](http://www.docway.net/)
-
-#### **在线素材工具**
-
-> - 如果你也写文章，或者做视频，那就一定少不了要找素材，包括各种图片、背景、emoji表情、表情包、壁纸、视频、gif图等等。
-> - 如此一来，那些好用的在线素材工具就必不可少了，比如像各种表情包工具、icon图标库、矢量图库、图片素材库、壁纸库等等。
-
-- [**免费透明背景图片素材**](http://pngimg.com/)
-- [**Emoji表情包下载**](https://emojiisland.com/)
-- [**open source icons**](https://feathericons.com/)
-- [**阿里巴巴矢量图标库**](https://www.iconfont.cn/)
-- [**表情包在线网站**](https://fabiaoqing.com/)
-- [**免费PNG图片库**](https://pluspng.com/)
-- [**ICON图标在线下载**](https://www.iconfinder.com/)
-- [**极简壁纸**](https://bz.zzzmh.cn/)
-- [**Wallpaper Abyss壁纸**](https://wall.alphacoders.com)
-- [**Pixabay图片素材库**](https://pixabay.com/zh/)
-- [**Unsplash图片素材库**](https://unsplash.com)
-- [**Pexels图片素材库**](http://www.pexels.com)
-- [**NASA图片视频素材库**](https://images.nasa.gov)
-
-#### **设计制作类工具**
-
-> - 对于那些文章创作者和视频创作者而言，设计封面，做海报，设计LOGO，图片美化等等基本也是刚需。
-> - 这样大概率日常会用到一些简易好上手的在线设计制作类工具，比如在线P图、音/视频轻量化剪辑、logo制作、海报设计制作、图片美化、在线图片转换或生成等等，毕竟不是每时每刻我们都需要那种重量级的本地软件。
-
-- [**在线PS**](https://www.uupoop.com/)
-- [**在线音频剪辑**](https://www.weixinsyt.com/)
-- [**在线视频剪辑**](https://www.kapwing.com/)
-- [**免费logo在线制作**](http://www.uugai.com/)
-- [**艺术字体在线生成**](https://www.qt86.com/)
-- [**在线表格转换工具**](https://tableconvert.com/)
-- [**在线海报设计工具**](https://www.designcap.com/)
-- [**图片智能放大工具**](https://bigjpg.com/)
-- [**二维码美化器**](https://mh.cli.im/)
-- [**在线代码截图工具**](https://carbon.now.sh/)
-- [**在线抠图工具**](https://www.remove.bg/zh)
-- [**ICO图标在线生成**](http://www.fly63.com/php/ico/)
-- [**SVG转PNG工具**](http://www.fly63.com/tool/svg2img/)
-- [**视频转GIF工具**](http://www.fly63.com/tool/giftxt/)
-- [**二维码在线生成器**](http://www.fly63.com/tool/ewm/)
-- [**二维码在线解码**](http://www.fly63.com/php/decoder/)
-
-#### **写作辅助工具**
-
-> - 在我写文章的过程中经常会用到和写作相关的辅助工具，比方说：字数统计工具、Markdown格式的文章排版工具、图床网站、代码截图工具等等，所以下面这些在线工具就能很好地满足我的需求。
-
-- [**在线字数统计**](https://www.eteste.com/)
-- [**mdnice markdown排版工具**](https://mdnice.com/)
-- [**md2all markdown排版工具**](http://md.aclickall.com/)
-- [**在线图床神器**](https://picx.xpoet.cn/)
-- [**在线免费图床**](https://sm.ms/)
-- [**图壳图床**](https://imgkr.com/)
-- [**在线代码截图工具**](https://carbon.now.sh/)
-- [**在线短链接工具**](https://urlify.cn/)
-- [**在线文本替换**](http://www.fly63.com/tool/textreplace/)
-
-#### **在线办公工具**
-
-> - 这部分在线工具主要用来处理一些和文档以及文稿相关的事情，经常用到的比如：在线的全套pdf处理和转换工具、各种各样多媒体文件间的相互转换工具、在线识别工具、在线压缩工具等等。
-
-- [**pdf在线处理工具套装1**](https://smallpdf.com/cn/pdf-tools)
-- [**pdf在线处理工具套装2**](https://tools.pdf24.org/zh/)
-- [**pdf转word在线工具**](https://www.pdftoword.com/)
-- [**在线多媒体转换器合集**](https://cn.office-converter.com/)
-- [**在线文字识别工具**](https://ocr.wdku.net/)
-- [**在线文件压缩工具**](https://docsmall.com/)
-
-#### **文档笔记工具**
-
-> - 好记性不如烂笔头，作为一个学习者，我觉得记笔记是必不可少的步骤。当然现在基本都做电子笔记和电子文档比较多。
-> - 现如今各式各样优秀的文档工具和笔记软件鳞次栉比，好用的也有很多，整理成如下列表，这东西各有长处，使用哪个最合意还得看个人习惯和需求了。
-
-- [**印象笔记**](https://www.yinxiang.com/)
-- [**有道笔记**](https://note.youdao.com/)
-- [**OneNote**](https://www.onenote.com/)
-- [**幕布**](https://mubu.com/)
-- [**为知笔记**](https://www.wiz.cn/)
-- [**石墨文档**](https://shimo.im/)
-- [**Simplenote**](https://simplenote.com/)
-- [**语雀**](https://www.yuque.com/)
-
-#### **编程学习网**
-
-- [**哔哩哔哩**](https://www.bilibili.com/)
-- [**C语言网**](https://www.dotcpp.com/)
-- [**cppreference**](http://zh.cppreference.com/)
-- [**中国大学MOOC**](https://www.icourse163.org/)
-- [**牛客网**](www.nowcoder.com)
-- [**网易公开课**](https://open.163.com/)
-- [**CodeGym**](https://codegym.cc/)
-- [**BeginnersBook**](https://beginnersbook.com/)
-- [**JavaSED**](http://www.javased.com/)
-- [**codecademy**](https://www.codecademy.com/)
-- [**Coursera**](https://www.coursera.org/)
-- [**StackOverFlow**](https://stackoverflow.com/)
-- [**LeetCode**](https://leetcode-cn.com/)
-- [**LintCode**](https://www.lintcode.com/)
-
-#### **在线教程和文档**
-
-> - 这部分主要集中了我在做开发过程中随手参考所要用到的几乎所有在线教程和官方文档，有中文版文档的我基本都优先列出来了，但更多时候是英文的官方文档。
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-- [**Git中文教程**](https://git-scm.com/book/zh/v2)
-- [**SVN中文手册**](http://svnbook.red-bean.com/nightly/zh/index.html)
-- [**jQuery API中文文档**](https://jquery.cuishifeng.cn/)
-- [**Nginx中文文档**](https://www.nginx.cn/doc/index.html)
-- [**Kafka中文文档**](https://kafka.apachecn.org/)
-- [**Mybatis中文文档**](https://mybatis.org/mybatis-3/zh/index.html)
-- [**微信小程序官方文档**](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-- [**Nodejs中文教程文档**](http://nodejs.cn/learn)
-- [**Apache Web Server文档**](http://httpd.apache.org/docs/)
-- [**Spring文档中文版**](https://www.springcloud.cc/spring-reference.html)
-- [**Golang标准库文档中文版**](https://studygolang.com/pkgdoc)
-- [**Java 8官方文档**](https://docs.oracle.com/javase/8/docs/api/index.html)
-- [**Maven官方文档**](http://maven.apache.org/guides/)
-- [**Tomcat 8官方文档**](http://tomcat.apache.org/tomcat-8.0-doc/index.html)
-
-<!-- div:right-panel -->
-
-- [**Spring Boot官方文档**](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-- [**RabbitMQ官方文档**](https://www.rabbitmq.com/documentation.html)
-- [**RocketMQ官方文档**](http://rocketmq.apache.org/docs/quick-start/)
-- [**Dubbo中文文档**](https://dubbo.apache.org/zh/docs/)
-- [**Netty官方文档**](https://netty.io/wiki/index.html)
-- [**Elasticsearch官方文档**](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
-- [**Spring Cloud官方文档**](https://spring.io/projects/spring-cloud)
-- [**Docker官方文档**](https://docs.docker.com/get-started/)
-- [**Kubernetes中文文档**](https://kubernetes.io/zh/docs/home/)
-- [**Thymeleaf官方文档**](https://www.thymeleaf.org/documentation.html)
-- [**Vue.js中文文档**](https://cn.vuejs.org/v2/guide/)
-- [**React.js官方文档**](https://reactjs.org/docs/getting-started.html)
-- [**Jenkins中文文档**](https://www.jenkins.io/zh/doc/)
-
-<!-- panels:end -->
-
-<!-- tabs:end -->
-
----
-## 常用本地软件
----
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/localsoftware.2x9vakmja2g.png" width=""/>
-    </a>
-</p>
-
-这里将常用软件分为了5大类，包括：
-
-> - 社交/娱乐/上网
-> - 办公软件
-> - 效率和美化软件
-> - UP主必备
-> - 程序员生产力工具
-
-- [点击查看：我的常用软件大公开！](https://mp.weixin.qq.com/s/ONx6wjGjQSvOOIgnEBTNJQ)
-
-<p align="center">
-
-<iframe src="//player.bilibili.com/player.html?aid=87731293&bvid=BV1E7411b7w4&cid=149892227&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-</p>
-
----
-## 基础软件开发环境和设施
-
----
-> [!Note]
->  **什么叫基础软件开发环境？**
->  
->  很好理解。学Java得要装JDK吧？学Python得要Python环境吧？学数据库得要MySQL吧？等等，这些在学习编程之前都是应该提前在自己的电脑上准备好的，而且尽量把全套都先备好，后面直接就用了。
-
-经常听到有小伙伴反馈和提问有关编程环境搭建和基础软件设施安装的相关问题。
-
-> - 啥？JDK明明装了，为啥还是not found？ 
-> - 咦？Maven明明配了加速，咋下载依赖还这么慢？ 
-> - 诶？MySQL明明装了，咋Navicat连会报错？ 
-> - 哦？Tomcat咋出不来页面？......
-
-每次都是照着网上现搜的帖子操作，一顿操作猛如虎，一看结果各种有问题，要不报错，要不环境起不来，等等。装个环境就浪费了很多时间，而且过了一段时间又忘，还得重新搜帖子，该踩的坑一个都不少...
-
-既然大家有这方面需求，想来想去，关于这个问题，我还是决定写一个事无巨细的PDF文档，把所有编程环境和基础软件设施的安装过程给详细地记录下来了。
-
-[熬10天夜，我肝出了这个PDF版「编程软件（环境）安装手册」](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
-
-内容包含常见基础开发环境和设施的安装部署，包括：
-
-> - Linux操作系统
-> - Git工具
-> - Java环境JDK
-> - Node基础环境
-> - Python基础环境
-> - Maven项目构建和管理
-> - MySQL数据库
-> - Redis缓存
-> - RabbitMQ消息队列
-> - Tomcat应用服务器
-> - Nginx Web服务器
-> - Docker环境
-> - Kubernetes环境
-> - Elasticsearch搜索引擎
-> - ZooKeeer环境
-> - Kafka消息队列
-
-大家有需要的可以：[点击此处 → 下载获取](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)！
-
----
-## Linux操作系统
----
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/linuxos.qciprfz30dc.png" width=""/>
-    </a>
-</p>
-
-> [!ATTENTION]
->  实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
-
-> [!Note]
->  - [**本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
->  - [**本章节置顶资源2：《Linux命令行大全.pdf》下载**](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
-
-- [常用Linux操作系统大盘点](https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg)
-- [人手一套Linux环境之：macOS版教程](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
-- [人手一套Linux环境之：Windows版教程](https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg)
-- [69张图：详细记录Ubuntu 20.04安装配置过程](https://mp.weixin.qq.com/s/vkLZ_3Jp4HdQ8PDIMYsGEw)
-- [废柴电脑拯救计划：借助Debian搭建个人专属云服务器](https://mp.weixin.qq.com/s/YpWp-b3vcAtb_jBwCM7wtg)
-- [常用Linux命令大整理](https://mp.weixin.qq.com/s/Kog6AfXYINIDwKMpJMkGFQ)
-- [面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
-- [Linux 桌面进化史](https://mp.weixin.qq.com/s/jQAJQo28UsY3YIxC5ci1sA)
-- [Linux迎来29岁：从个人爱好到统治世界的操作系统内核！](https://mp.weixin.qq.com/s/6-yb1N-SwHr4EaQ-fvU4Ow)
-- [漫画：Linux 内核到底长啥样？](https://mp.weixin.qq.com/s/4G6re30hxAacxmCLjP8KpQ)
-- [资源下载 → 《Linux命令速查备忘手册.pdf》](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
-- [资源下载 → 《Linux命令行大全.pdf》](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
-
----
-## 版本控制工具
----
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/gcm.1sv6s8asfzc0.jpeg" width=""/>
-    </a>
-</p>
-
-- [资源下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
-- [科普篇：Git和SVN对比](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
-- [科普篇：5分钟了解Git的前世今生](https://mp.weixin.qq.com/s/VvpjFUXd6jcatACHyFPHfg)
-- [科普篇：Git操作与常用命令集锦](https://mp.weixin.qq.com/s/swnwBiuyVmhs5iPqv3H6BQ)
-- [原理篇：图解Git中的最常用命令](https://mp.weixin.qq.com/s/DRCeDhYiwQQToKukk4RM4g)
-- [原理篇：从原理角度理解记忆Git常见命令](https://mp.weixin.qq.com/s/DQVVYOWdOPuRsy3m0fg6Xg)
-- [实践篇：从实践中彻底上手Git](https://mp.weixin.qq.com/s/sp1YUQ2vnQaIGH4tO3j1Vw)
-- [实践篇：Git分支开发](https://mp.weixin.qq.com/s/touo-rygtz0tG6y8NKw65A)
-- [实践篇：如何使用GitHub Flow给开源项目贡献代码](https://mp.weixin.qq.com/s/JMNQi3BSTmKpF9vXMEdKHw)
-- [技巧篇：一招搞定GitHub下载加速！](https://mp.weixin.qq.com/s/SYR4zvjhAH1mX9fxdp8cbA)
-- [技巧篇：如何在同一台电脑上同时使用多个Git账号](https://mp.weixin.qq.com/s/Qt4bqReZU3ydIsMtCVC0eA)
-
----
-## IDE/编辑器
-
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/ide.720nw0czwbs0.png" width=""/>
-    </a>
-</p>
-
-- [IDEA 2021.2升级体验](https://mp.weixin.qq.com/s/WQiHpAv4bjEIz3fghzamEA)
-- [IDEA 2021.1升级体验](https://mp.weixin.qq.com/s/dojfVvkrxru1eH8Pep7irw)
-- [IDEA 2020.3升级体验](https://mp.weixin.qq.com/s/FhURpMKa9oi2FrV_0woOtw)
-- [IDEA 2020.1升级体验](https://mp.weixin.qq.com/s/Ua4TYlcNntLr-x9WQirHyg)
-- [IDEA插件分享：开发必备的IDEA神级插件大分享](https://mp.weixin.qq.com/s/xMwGAL_7sGkmnFvWZroVPw)
-- [我的IDEA写代码小技巧：幸福感+效率爆棚](https://mp.weixin.qq.com/s/V2uAxmdq2e0Hl-y5GaD-Qw)
-- [为啥我的IDEA Maven依赖下载总是失败？](https://mp.weixin.qq.com/s/KNk04dv6Z-ERrHiY03qdAw)
-- [试水JetBrains官方新编程字体](https://mp.weixin.qq.com/s/RK_ygHgMjayL5-qTnlHbeg)
-- [如何使用IDEA远程调试线上代码](https://mp.weixin.qq.com/s/WLTfgkPnJYJf9PZM8d8w4Q)
-- [利用VS Code进行远程开发教程](https://mp.weixin.qq.com/s/ZDVYk188oPLugRI6oeVYIQ)
-- [VS Code常用插件+快捷键整理](https://mp.weixin.qq.com/s/_3mwj5_MNln__3SSI8BJ3Q)
-
----
-## API管理/文档管理
----
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/apidocs.2qlxsrvx2vy0.png" width=""/>
-    </a>
-</p>
-
-- [科普篇：前后端都分离了，有哪些好用的API管理系统？](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
-- [科普篇：几款常用的在线文档神器](https://mp.weixin.qq.com/s/G6-6gqYnTvEsWOGIoj16ZQ)
-- [一款零注解API接口文档生成工具](https://mp.weixin.qq.com/s/I_pH1V9iUu-IUayMA5oQSg)
-
----
-## CI系统
----
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/ci.3iokn4xypxy0.png" width=""/>
-    </a>
-</p>
-
-- [常用CI工具大盘点](https://mp.weixin.qq.com/s/PgoXJcJX_sm5132VGQoZ1w)
-- [Jenkins Pipeline使用入门](https://mp.weixin.qq.com/s/Y2gxBmBK2HPvr1uKUUxRYA)
-- [讨论：你们公司用啥CI守护系统？](https://mp.weixin.qq.com/s/4NlLEyy2QXX5_snX4r7FSw)
-
-## 其他软件/工具/网站
-
-- [自学数据结构和算法的9大工具和网站](https://mp.weixin.qq.com/s/f9dfQQbpKjMopH6m2Gjiiw)
-- [12个常见的编程开发自学网站汇总](https://mp.weixin.qq.com/s/jFc-6QK2Mv1zHuhuFrqhog)
-- [常用Web服务器软件大盘点](https://mp.weixin.qq.com/s/J1XjIwtEKjaltqWH-0qmgw)
-- [9款最佳编程字体推荐](https://mp.weixin.qq.com/s/VB1jGIWWp4XdsLwXe-PKlQ)
-- [5款时间管理工具推荐](https://mp.weixin.qq.com/s/71Cr9UxvQc6CdmguQIh-IA)
-- [一个程序员的常用在线工具网站分享](https://mp.weixin.qq.com/s/oMAJaKDfr_bmgCVD0CX1oA)
-- [2020年度开发者工具Top 100名单](https://mp.weixin.qq.com/s/VtmcuYGt96S4750UFYKnXQ)
-- [Linux服务器上几个常用的监控小工具整理](https://mp.weixin.qq.com/s/zWIv5yBTD0Tvt8txb8znrA)
-- [效率神器PowerToys使用攻略](https://mp.weixin.qq.com/s/LUPa_uSEd91Pj08VwxsxEQ)
-- [22款适合程序员的终端生产力小工具推荐](https://mp.weixin.qq.com/s/k19ZT_yH4lzNLUYkH2GUJA)
-- [9款优秀的代码比对工具推荐](https://mp.weixin.qq.com/s/IU5mmLxflgswICEo3BCWLA)
-- [几款提升效率的软件神器](https://mp.weixin.qq.com/s/HZRz_A8bLcOTuzcezYEFZg)
-- [命令行效率神器 NuShell ！](https://mp.weixin.qq.com/s/0f6JpBiPqCY8cZ2Ich0Lmg)
-
----
----
-# **计算机基础**
-
----
-> [!ATTENTION]
->  **计算机基础是最最重要的！**即使后面的东西都没学（或者来不及学），基础部分是肯定需要完成的，这也是后面所有应用框架学习和做项目的基石；反之，在应用框架的学习或者做项目时如果感觉吃力，那就可能非常有必要回过头再来巩固对应的基础知识。
->  计算机基础的学习不是一蹴而就的，需要一定的反复和回炉才能做到真正的融会贯通，需要一个过程。珍惜每一次回顾和复习基础的机会，应扎实精进，步步为营。
->  那我们口口声声所说的编程基础（计算机基础）到底指是什么呢？
->  此处整理为**六大方面：**
->  - 一两门你最熟悉的编程语言（不求多，但求精！）
->  - 数据结构和算法
->  - 计算机网络
->  - 操作系统（计组）
->  - 数据库/SQL
->  - 设计模式
----
-
-## 编程语言
-
----
-> [!ATTENTION]
->  语言在精不在多，切记！完全掌握了一门语言，上手其他的都不难！
----
-
-<!-- tabs:start -->
-
-#### **Java**
-
-
-- **基本功趣味学习（精讲）**
-
-  - [资源下载 → Java基础核心知识大总结pdf笔记下载](https://mp.weixin.qq.com/s/jn7oraFlhRkOmiv3rh74WA)
-  - [夯实基本功之：Java程序员找对象攻虐！](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
-  - [夯实基本功之：浮点数在计算机中是如何表示的](https://mp.weixin.qq.com/s/LVpvmBO0GY6TC4gwL_12Yw)
-  - [夯实基本功之：flaot和double使用时的大坑](https://mp.weixin.qq.com/s/UyYDt3HB8IO_AoSDLndhxA)
-  - [夯实基本功之：为什么要面向接口编程](https://mp.weixin.qq.com/s/Dg9LcKJBrabcnvC_6wga-A)
-  - [夯实基本功之：枚举精讲](https://mp.weixin.qq.com/s/DgOr7cat8SP0zoY7Ke3toQ)
-  - [夯实基本功之：深拷贝/浅拷贝精讲](https://mp.weixin.qq.com/s/ypCIMGxyp7AX5cxG5UJ1Hg)
-  - [夯实基本功之：序列化和反序列化精讲](https://mp.weixin.qq.com/s/0EfIUB9E-0Oh_Clwuxswuw)
-  - [夯实基本功之：函数式编程例析](https://mp.weixin.qq.com/s/yI82juBiirJ56BZfGJezLw)
-  - [夯实基本功之：如何去掉冗长的if/else代码](https://mp.weixin.qq.com/s/ufRf8DQQRYQI0q2VxG3hQg)
-  - [夯实基本功之：注解精讲](https://mp.weixin.qq.com/s/gdYysBB3aD_HmPyvEThFXw)
-  - [夯实基本功之：为什么不要用Date表示时间](https://mp.weixin.qq.com/s/v-Va_GuSUGr9HVAW84kloQ)
-  - [夯实基本功之：去除烦人的NullPointerException空指针异常](https://mp.weixin.qq.com/s/RsC7peRsFaJAEcG2eTJb0Q)
-  - [夯实基本功之：为什么要重写hashcode和equals方法](https://mp.weixin.qq.com/s/QZPezSruj0qvBUJEM4jB0g)
-  - [夯实基本功之：Object类精讲](https://mp.weixin.qq.com/s/eJy74CbzthHMgRPOA_4wEA)
-  - [夯实基本功之：List使用踩坑记录](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
-  - [夯实基本功之：Map使用踩坑记录](https://mp.weixin.qq.com/s/D21mcfI4cxNf4D9ukjESog)
-  - [夯实基本功之：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
-  - [夯实基本功之：死磕Java I/O流知识](https://mp.weixin.qq.com/s/xzV0uiQ0Q2ii5I54f8DPWQ)
-  - [夯实基本功之：你一般是怎么遍历HashMap的](https://mp.weixin.qq.com/s/d93H9TwJKSnpkSBMYJ7QWQ)
-  - [夯实基本功之：try-catch的使用姿势](https://mp.weixin.qq.com/s/AbZH57nUtePC728XfCvrcw)
-  - [夯实基本功之：if和swictch性能例析](https://mp.weixin.qq.com/s/YbXBWhSlZTwY_bBqpNP2YA)
-  - [夯实基本功之：Java HashMap源码剖析](https://mp.weixin.qq.com/s/xv0GmAU8fVlS_sxWKWUWYw)
-  - [夯实基本功之：String性能提升10倍的几个用法](https://mp.weixin.qq.com/s/KRRLt0EaIwDEPCTGvqnWJA)
-  - [实践篇：Java源码编译实战](https://mp.weixin.qq.com/s/K0ehqbxrzSz07nqnqRvn5A)
-  - [面试篇：这10道基础Java面试题，虐哭了多少人](https://mp.weixin.qq.com/s/oBDrFnuk1lbfuNHkrhAC5w)
-  - [面试篇：Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
-  - [Java 11新特性例析](https://mp.weixin.qq.com/s/kNMQp-vjVK6Fq07xalZkng)
-  - [Java 15新特性例析](https://mp.weixin.qq.com/s/1SVao6dMMLhNoFTOvnLy8g)
-  - [科普：Java收不收费跟我们有毛关系吗？](https://mp.weixin.qq.com/s/QrWASACHkMGVop7gNe2DOA)
-
-
-- **多线程和并发**
-
-  - [资源下载 → Java多线程+并发编程知识点详细总结PDF文档下载！](https://mp.weixin.qq.com/s/EGQAuvITVJT3fZUdQG84sw)
-  - [夯实基本功之：Java并发之原子性、有序性、可见性](https://mp.weixin.qq.com/s/30__VavtpJxEojUjYglGhQ)
-  - [夯实基本功之：ThreadLocal源码剖析](https://mp.weixin.qq.com/s/ND-nUCGvXTHkEClKqN1qrQ)
-  - [夯实基本功之：Java线程池使用例析](https://mp.weixin.qq.com/s/TF04dB-i0q0-dOTqlprmYA)
-  - [夯实基本功之：彻底搞懂多线程中的volatile](https://mp.weixin.qq.com/s/fxl3od5UObRrPGe2AVvAPA)
-  - [夯实基本功之：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
-  - [夯实基本功之：详解Java并发编程中的各种锁](https://mp.weixin.qq.com/s/Sb1tZC_6CWE57TKvJeMmkA)
-  - [Java并发和多线程基础面试题大集合](https://mp.weixin.qq.com/s/pIVf97W4DuAPNxq6zgRvsQ)
-  - [科普向：Java线程和操作系统的线程到底有啥区别？](https://mp.weixin.qq.com/s/ykQ8wkBr-jHzbcD-7HGMEQ)
-
-
-- **JVM虚拟机**
-
-  - [夯实基本功之：Java内存模型精讲](https://mp.weixin.qq.com/s/lEgHPertXyguZIkv61LlKQ)
-  - [夯实基本功之：面试必问的JVM GC机制](https://mp.weixin.qq.com/s/bHkgpznnqixDNyDKwdAbOg)
-  - [夯实基本功之：JVM垃圾回收硬核18问（附答案）](https://mp.weixin.qq.com/s/XsZUF2nBUSEJoGIA8RimJw)
-  - [夯实基本功之：搞懂JVM的三大参数类型](https://mp.weixin.qq.com/s/TlX81xJ9fnuDIOTkDxrd1Q)
-  - [夯实基本功之：了解G1垃圾收集器](https://mp.weixin.qq.com/s/KASLkkZnjGwVgm_1jbe-mA)
-  - [实践篇：JDK源码编译上手实践](https://mp.weixin.qq.com/s/MDM6w2Dw_HYc9XzZevQNeA)
-  - [实践篇：线上服务的YGC问题排查例析](https://mp.weixin.qq.com/s/-8xYoAkBUoavcSl69I0XJw)
-  - [实践篇：线上服务的FGC问题排查例析](https://mp.weixin.qq.com/s/Sjh9qFPKF250vLQGZig6nw)
-  - [面试题：Java虚拟机（JVM）面试题大集合1](https://mp.weixin.qq.com/s/T2DqgJ9-0QiRZQYUeR3c8w)
-  - [面试题：Java虚拟机（JVM）面试题大集合2](https://mp.weixin.qq.com/s/ZYoeC8yyfReEJDFSqiW8hw)
-
-
-#### **C语言**
-
-- 待更新...
-
-
-#### **C++**
-
-- 待更新...
-
-#### **Golang**
-
-- 待更新...
-
-
-<!-- tabs:end -->
-
----
-
-## 数据结构+算法题
-
----
-> [!WARNING]
->  数据结构和算法题对于程序员的重要性不言而喻。参加过笔试或者面试过的小伙伴应该知道，可以说这个东西某一程度上直接决定了面试的成败，现在的互联网公司技术岗面试，数据结构+算法题基本都是必选项。除了几种基础数据结构类型得烂熟于心，基本的几大算法(或者说算法思想)也要了如指掌之外，参加求职前，不论是校招还是社招，非常有必要好好刷一刷LeetCode上的数据结构和算法题，以保持题感。
----
-
-- [资源下载 → LeetCode算法刷题Golang版答案PDF文档](https://mp.weixin.qq.com/s/EaDLaLy3YjrNiSoNofwMMA)
-- [资源下载 → LeetCode算法刷题C++版答案PDF文档](https://mp.weixin.qq.com/s/qR6KTfldk41lsOj1Ghp6Og)
-- [资源下载 → LeetCode算法刷题Java版答案PDF文档](https://mp.weixin.qq.com/s/kWTJ9640mPegr5wqVE0GMg)
-- [资源下载 → 谷歌学长的数据结构+算法题代码笔记手册](https://mp.weixin.qq.com/s/gXH98f1p5cCYVETCn9w9kA)
-- [数据结构：24张图详解九大数据结构](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
-- [数据结构：哈希表详解](https://mp.weixin.qq.com/s/UanDueZi3MwlcKYGMNQPGg)
-- [数据结构：栈Stack的几种含义理解](https://mp.weixin.qq.com/s/v6rr0M9AW_kSMEtjkc-Mqw)
-- [数据结构：各种树详解](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
-- [数据结构：跳表精讲](https://mp.weixin.qq.com/s/czkZcQL8mEqG2xeX8huqsA)
-- [数据结构：数组和链表的性能对比](https://mp.weixin.qq.com/s/iG9zNHYLkEyHF3M4RpoWKw)
-- [算法：十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
-- [算法：排序算法趣味对比](https://mp.weixin.qq.com/s/za_MJY3-r9Gfiu3BJfej7Q)
-- [算法：二分法及其变种](https://mp.weixin.qq.com/s/1ExIav9uK4bvVnnf4t0H2Q)
-- [算法：10张图搞定KMP算法](https://mp.weixin.qq.com/s/H1ttBFuBY5n3Dbh3YaTmlw)
-- [算法：面试官最爱的字符串匹配算法精讲](https://mp.weixin.qq.com/s/FYx3acRh9JXAIb7y97G39A)
-- [算法：8大常见算法思想总结](https://mp.weixin.qq.com/s/vGjcX4nHv6QT2-qKHZM8Dw)
-- [算法：一文彻底学会递归思路解题](https://mp.weixin.qq.com/s/JLbjzCdVlJ_de2uGgBsUzw)
-- [算法：10张动图理解递归](https://mp.weixin.qq.com/s/uuNaZfzhG3KaoEtez8Migw)
-- [算法：分治算法详解](https://mp.weixin.qq.com/s/a3_bMRmTqZxMBruYsPC9-w)
-- [算法：递归算法详解](https://mp.weixin.qq.com/s/tqGKHZzSyDBgEp-oWsOztQ)
-- [算法：动态规划常见算法题例析](https://mp.weixin.qq.com/s/bGH_o1BsJtgnC2rFugtsRw)
-- [算法：搞定算法复杂度分析](https://mp.weixin.qq.com/s/mBTyBkeNHoW7-Rcbv2Exwg)
-- [算法：常用算法复杂度速查表](https://mp.weixin.qq.com/s/U6D1PNjuBAcRd5UZRr0F3w)
-- [算法：常见刷题模式套路分析](https://mp.weixin.qq.com/s/JhHPAaOInIi4lZ-UrCLdgg)
-- [算法：算法题刷题的心得和建议](https://mp.weixin.qq.com/s/Gz9-f_G6P-0tKrReAinw0A)
-- [算法：求职必刷算法题大集锦](https://mp.weixin.qq.com/s/HUS12phrTbNzAE6uFHO9lg)
-- [工具推荐：自学数据结构和算法的9大工具和网站](https://mp.weixin.qq.com/s/f9dfQQbpKjMopH6m2Gjiiw)
-
----
-
-## 计算机网络
-
----
-> [!WARNING]
->  为什么一定要学好计算机网络？原因很简单，因为计算机网络中的各种协议栈是当下繁荣的互联网通信的基石，尤其建议要牢固熟练地掌握TCP/IP协议栈。
----
-
-- [视频科普：计算机网络该怎么学](https://www.bilibili.com/video/BV1U4411M71p)
-- [概念科普：如何系统地学习计算机网络](https://mp.weixin.qq.com/s/v34D8xWGPW8LgENy3G2QZA)
-- [概念科普：计算机网络的89个核心概念](https://mp.weixin.qq.com/s/t8Dz-4D6BuBevZYz5Jhklg)
-- [工具科普：学网络时，可以先落实这几款利器工具](https://mp.weixin.qq.com/s/hZF2P4oQE6dsuXKWLEgDKA)
-- [探究原理：浏览器输入网址一回车，后面到底发生了什么](https://mp.weixin.qq.com/s/t2Csrl7idUXISKW54cpV1g)
-- [探究原理：你可能没有细究过的TCP/IP](https://mp.weixin.qq.com/s/AjcW7ELOTTqqdnUHpMbccQ)
-- [探究原理：一个数据包在网络中到底是怎么游走的](https://mp.weixin.qq.com/s/07zloKKMUl-RHN6tWqZIJQ)
-- [探究原理：两台计算机之间究竟是如何通信的](https://mp.weixin.qq.com/s/ZCddesfN0qISh3Rqo2jbWA)
-- [探究原理：ping命令用得这么6，原理知道不](https://mp.weixin.qq.com/s/55bbQX2-SUNe6PEI9My5fA)
-- [探究原理：一台Linux服务器最多能支撑多少个TCP连接](https://mp.weixin.qq.com/s/QuCxkSjdM_E12lXlpnhKIQ)
-- [探究原理：都说HTTP协议无状态，这里的「状态」到底指什么](https://mp.weixin.qq.com/s/EZwOUGMrGKEF_POisJKmuw)
-- [探究原理：Session/Cookie/Token](https://mp.weixin.qq.com/s/5oFKdbFWgZrwqESNTZn77w)
-- [探究原理：三次握手底层深度理解](https://mp.weixin.qq.com/s/u242LSHnePBg_KbMc0ioTA)
-- [知识总结：计网IP部分知识总结](https://mp.weixin.qq.com/s/21Tk-8gxpDoH9DNWNYCWmA)
-- [知识总结：图解HTTP的前世今生](https://mp.weixin.qq.com/s/vk_QZDpJLVEXXNe1jYzd8w)
-- [知识总结：HTTP和HTTPS协议大总结](https://mp.weixin.qq.com/s/8HJ-V1BbV9wp89HS-XulXw)
-- [面试相关：GET和POST到底有什么区别](https://mp.weixin.qq.com/s/H4gbg7bfnw61jZQcapTnMw)
-- [面试相关：面试最爱问的三次握手和四次挥手问题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
-- [面试相关：HTTP常见面试题集合](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
-- [面试相关：计网TCP/UDP部分高频面试题集合](https://mp.weixin.qq.com/s/doxVJZ1G6187B4AOXb0JlA)
-- [面试相关：计算机网络高频12问](https://mp.weixin.qq.com/s/PIGfhMaAx9R5C4x5eJQnIw)
-- [实践系列：网络排错思路大总结](https://mp.weixin.qq.com/s/L8jmABzoI_e4dCcECenHtQ)
-- [实践系列：抓个包看一看浏览器里的HTTP请求到底是如何完成的](https://mp.weixin.qq.com/s/_fB7r53BGZRvpG9YAPRQ8A)
-
----
-
-## 操作系统
-
----
-> [!WARNING]
->  学好操作系统有利于我们深入理解计算机底层，这样平时在遇到疑难杂症时，能够更容易看到问题的本质，并高效解决；另外操作系统里的很多优秀的设计思想、经典的架构、算法、思路也值得我们反复理解和思考，很多思想在平时的工作中也可以借鉴和运用。
----
-
-- [知识总结：学编程要懂的操作系统基础](https://mp.weixin.qq.com/s/ttncekujB82g88GRx3a6lQ)
-- [知识总结：程序员必知的89个操作系统核心概念](https://mp.weixin.qq.com/s/VsQ7IpP-jnXSjJhOAzl-ew)
-- [知识总结：操作系统主要概念硬核讲解](https://mp.weixin.qq.com/s/1Rzvu9uCTef5l_8Qw3ff0A)
-- [知识总结：20张图详解操作系统内存管理部分知识点](https://mp.weixin.qq.com/s/m-AmxDVUfko7OTUsCapnPA)
-- [知识总结：这才是对进程和线程最通俗易懂的解释](https://mp.weixin.qq.com/s/FoYiPB-2LuIpnTW8gck2EQ)
-- [知识总结：操作系统并发三剑客之进程/线程/协程](https://mp.weixin.qq.com/s/Pfc31qoWfL6_uva6ePBmVA)
-- [知识总结：操作系统高并发服务模型大科普](https://mp.weixin.qq.com/s/yXMgpAhz3JhtCtutMQnXvQ)
-- [知识总结：这可能是讲死锁最通俗的一篇文章](https://mp.weixin.qq.com/s/7AHS5AlY2OaiLO4ag6zVMQ)
-- [知识总结：一举拿下网络IO模型](https://mp.weixin.qq.com/s/vwJ5T7x1Jv4wa_x7nwr54Q)
-- [知识总结：用一个故事来感受一下什么叫NIO](https://mp.weixin.qq.com/s/iFIt8t-q6hU-Ghwlj0hohw0)
-- [知识总结：多路复用、非阻塞、线程与协程](https://mp.weixin.qq.com/s/xIfxzxCfbvBvQ2c0aUuA0A)
-- [知识总结：搞懂原码/反码/补码](https://mp.weixin.qq.com/s/laP7Vxl6o40mIYBS7Cuj7A)
-- [知识总结：30张图解高并发服务模型哪家强](https://mp.weixin.qq.com/s/a2Q1DQqOHdhtGEjJ4QxPew)
-- [原理探究：新建一个空文件到底会占用多少磁盘空间？](https://mp.weixin.qq.com/s/vMvAgo9IWaLtDwxW1627YA)
-- [面试相关：2.5w字+36张图+1周时间：爆肝操作系统面试题！](https://mp.weixin.qq.com/s/lR_A3jbfRiRjchz_lyyKxw)
-- [面试相关：1.3w字的操作系统高频面试题大分享](https://mp.weixin.qq.com/s/oTEMOQY1xcG8uVceW-kLDA)
-- [面试相关：学完操作系统内存管理，能回答这8个问题吗](https://mp.weixin.qq.com/s/5f3ku77xSO8UlaOsTkOnHQ)
-
----
-
-## 数据库/SQL
-
-- [原理探究：详解一条SQL的执行过程](https://mp.weixin.qq.com/s/OnGaqyUpB58pC2rqqzIzgw)
-- [原理探究：MySQL的数据存在磁盘上到底长什么样](https://mp.weixin.qq.com/s/36Jaj79Y8BxFoDB3Bwe7mg)
-- [原理探究：数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
-- [原理探究：为什么MySQL索引要用B+ tree](https://mp.weixin.qq.com/s/d7Zfat2fP6IX5DMKKtEIjQ)
-- [原理探究：为什么用了索引，SQL查询还是慢](https://mp.weixin.qq.com/s/-mOOchaXx_pKI6qWhohEnA)
-- [原理探究：数据库索引的原理和使用准则](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
-- [原理探究：为什么你写的SQL那么慢](https://mp.weixin.qq.com/s/iBnav_WPrX5vjR-NbdNeQg)
-- [原理探究：count(1)和count(*)到底哪个效率高](https://mp.weixin.qq.com/s/lyAFcnZIoyhACw78Nf9xQg)
-- [原理探究：为什么阿里规定超过三张表禁止join](https://mp.weixin.qq.com/s/7vN9Nf20NGnvLKALHw_O1Q)
-- [原理研究：什么是MySQL索引下推？](https://mp.weixin.qq.com/s/aPVs9Jrk07KsXcXdPOpx5A)
-- [原理探究：为什么大公司后台数据库都要搞分库分表？](https://mp.weixin.qq.com/s/yflzIQFiNa3tDJm7U9P8ig)
-- [原理探究：MySQL不会丢失数据的奥秘就藏在这里](https://mp.weixin.qq.com/s/QBeyJz2gVq1p7wBxcY1Gfw)
-- [原理探究：MySQL主从复制那些事儿](https://mp.weixin.qq.com/s/CCLsmKSsodtkz4iX84Cdig)
-- [实践应用：常见的SQL错误（不当）写法例析](https://mp.weixin.qq.com/s/caBYeVtZvNzbSs4q-6710Q)
-- [实践应用：SQL优化的几个角度](https://mp.weixin.qq.com/s/hl11JYMwl30FsDVZ40CLVQ)
-- [实践应用：数据库、数据表设计规范例析](https://mp.weixin.qq.com/s/hE2uKE2ffNCmeHLRn2KSTQ)
-- [实践应用：梳理开发中常用的SQL优化途径](https://mp.weixin.qq.com/s/jl0j-T6XldN6Nq-jYoQ-gA)
-- [实践应用：先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s/SPgtpfgv6bz2AfPa1CYYeQ)
-- [实践应用：百亿级数据分表后如何分页查](https://mp.weixin.qq.com/s/EplL3kBx5vOXGDhDOP8NjQ)
-- [实践应用：什么是SQL注入攻击](https://mp.weixin.qq.com/s/mnZT0Z5L6Hi6gRgEO1C9tg)
-- [实践应用：用对这些场景下的数据库索引，领导说我有点东西](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
-- [实践应用：一个遗留项目的SQL优化实战录](https://mp.weixin.qq.com/s/MA7FVeJDMg8WDJABiBWpBA)
-- [实践应用：误删数据库后该如何恢复](https://mp.weixin.qq.com/s/UYZZkrbAetgnPUjGa71fJA)
-- [实践应用：如何科学根治慢SQL？](https://mp.weixin.qq.com/s/eQKphrkPeN_-EcWIxETz9Q)
-- [面试相关：面试官最爱的数据库索引连环问](https://mp.weixin.qq.com/s/MLvJsJuFAHHcllqvk1nVRQ)
-- [面试相关：30道保底的MySQL数据库面试题集合](https://mp.weixin.qq.com/s/aBboeqEphejICklAKLqS2Q)
-- [面试相关：数据库自增ID用完了会怎样](https://mp.weixin.qq.com/s/WqM5mhnLOqZhcdzPLeWh5w)
-- [面试相关：如何保证缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/RDOKLnG7P1j5Ehu3EyrsCQ)
-- [面试相关：面试官最爱的MySQL连环问](https://mp.weixin.qq.com/s/8ddEzG-NzzFD35ehvbER7A)
-- [面试相关：如何实现丝滑的数据库扩容](https://mp.weixin.qq.com/s/1VCC3i6ZCk7sb9kVRZ1czQ)
-
----
-
-## 设计模式
-
-  - [资源下载 → 23种设计模式学习笔记PDF文档](https://mp.weixin.qq.com/s/miV4SH1Eb_FMogQ2XYvPuA)
-  - [单例模式详解](https://mp.weixin.qq.com/s/dXUgiMacKjwTBwX16cXNBA)
-  - [工厂模式讲解, 引入Spring IOC](https://mp.weixin.qq.com/s/8TfJ1uhMiKHnTmlF9D0L2Q)
-  - [什么是动态代理模式](https://mp.weixin.qq.com/s/GT1-yrxJ5KF0xeMydbJDCQ)
-  - [经典面试题：Spring用到了哪些设计模式](https://mp.weixin.qq.com/s/ZcKqGT2Sn4wVScExSF9Alg)
-
-## 其他
-
-- [每个开发人员都应该了解一点的UML规范](https://mp.weixin.qq.com/s/7-CTSWN-VLYgPH5H2nPU8w)
-- [计算机时间到底是怎么来的](https://mp.weixin.qq.com/s/VFUg1S0ApuFzlTNYSCLkMQ)
-- [乱码问题科普：“锟斤拷”的前世今生~](https://mp.weixin.qq.com/s/kTADQtTeOWPuXsvR9HsUIg)
-- [从一个面试题看程序员的几项基本功](https://mp.weixin.qq.com/s/dVgDv1bNH8ivO0Ft0FtmZg)
-
----
-# **应用框架和工具**
-
----
-> [!NOTE]
->  - 计算机基础聊完了，接下来就是应用和实践的环节了。这部分通常会涉及到一些**工具**、**编程环境**、以及**应用框架**。
->  
->  - 企业级开发不同于个人自学，出于**可复用性**、**稳定性**、**开发成本**、**开发效率**、**质量保证**等一系列因素的考量，不可能每一个功能、每一个组件都从0开始徒手造轮子，所以这时候各种应用框架和工具的出现就非常有帮助了。
->  
->  - 其实框架讲白了就是别人经过多年迭代写好的一套**工具**、**代码库**、**逻辑**、亦或是**流程**，把原本都需要从0开始手写的基本功能和组件都给封装进去，用户只要符合框架约定的规则进行编码，或者调用框架提供的方法或者工具，就能快速拉起业务功能，创造实际经济价值。
->  
->  - 所以框架的出现从不同的角度看也是有多面性的：对于企业级开发效率提升而言肯定是有帮助的，但是对于程序员个人思考编码能力提升却未必是好事，所以多注重基础、深挖原理，提升自身竞争力还是非常有必要的。
-
-
-
-## Spring系列框架
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-- [原理探究：Spring Boot项目究竟是怎么启动的？源码剖析](https://mp.weixin.qq.com/s/-MYQ-meSUcr-wZhfUbGq3Q)
-- [原理探究：SpringBoot中@SpringBootApplication注解探秘](https://mp.weixin.qq.com/s/NqG7GzsPhwI76h3nujTCgQ)
-- [原理探究：Spring @Autowired注解详解](https://mp.weixin.qq.com/s/uYNpoxcZ22goiev3uSus2w)
-- [原理探究：Spring @Value注解详解](https://mp.weixin.qq.com/s/LGYSChfDLKuCQVMYGi0Omg)
-- [原理探究：Spring框架是如何解决循环依赖问题的](https://mp.weixin.qq.com/s/m2DrtDxBzShtNF2Uk6zSAg)
-- [原理探究：Spring中竟然有12种定义Bean的方法](https://mp.weixin.qq.com/s/YZT7NURQsNBSoSNsWBciQg)
-- [原理探究：Spring的Controller究竟是单例还是多例，如何保证并发安全](https://mp.weixin.qq.com/s/PNmlpv786kgk5Pyhr5XSsw)
-- [原理探究：为什么Spring的Bean默认是单例的](https://mp.weixin.qq.com/s/uQxxGpJJo4XfkLfHHp8nHw)
-- [原理探究：单点登录(SSO)原理和实现](https://mp.weixin.qq.com/s/8brVERYV-XMIGB0Qly_mOg)
-- [原理探究：面试常问的Spring IoC原理解析](https://mp.weixin.qq.com/s/0zRks2Cz36S8N70Uonb0OA)
-- [原理探究：了解这些，就可以在Spring启动时为所欲为了](https://mp.weixin.qq.com/s/yXKPNB2dB99K_9gOWw6UHg)
-- [实践应用：Spring Boot日志框架实践](https://mp.weixin.qq.com/s/uVqkLkkxot-zsoVPo1ri1A)
-- [实践应用：利用神器BTrace追踪线上Spring Boot应用运行时信息](https://mp.weixin.qq.com/s/NH7ck79I3U0bJTEv37aECw)
-- [实践应用：Spring Boot项目集成全局唯一ID生成器UidGenerator](https://mp.weixin.qq.com/s/GGeavPrGAzF1YOxCSk3YrQ)
-- [实践应用：Spring Boot Admin2.0开箱体验](https://mp.weixin.qq.com/s/jdV8X_R9eeZRus5bfoSNNg)
-- [实践应用：Spring Boot项目传参校验最佳实践](https://mp.weixin.qq.com/s/WQ-2fPOxk0GvSHiRR5-kQw)
-- [实践应用：Spring Boot项目优雅传参方式讨论与实践](https://mp.weixin.qq.com/s/AdtUX9davFH-C60gBypnoA)
-- [实践应用：基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](hhttps://mp.weixin.qq.com/s/ZLUOWYVsf6gDcT94X_saJg)
-- [实践应用：封装一个好用的流水号ID生成器id-spring-boot-starter](https://mp.weixin.qq.com/s/AEWjwIEjVMf_cRixiIb7-Q)
-- [实践应用：封装一个好用的elasticsearch-spring-boot-starter](https://mp.weixin.qq.com/s/V2jGlNn4EsM-_RheIk0TYg)
-- [实践应用：Spring Boot项目集成jasypt-spring-boot加密组件](https://mp.weixin.qq.com/s/CTDEFxTKdk0qxK9VNSEIqw)
-- [实践应用：基于Spring Security+JWT的权限系统设计](https://mp.weixin.qq.com/s/sMi1__Rw_s75YDaIdmTWKw)
-<!-- div:right-panel -->
-- [实践应用：Spring Boot项目集成全局唯一ID生成器Vesta](https://mp.weixin.qq.com/s/u3ioahBPOno81dp3f2IDJA)
-- [实践应用：Spring Boot项目集成Mybatis-Plus](https://mp.weixin.qq.com/s/SeXKbp9ee-FMNKfuSqpZFw)
-- [实践应用：如何自制一个Spring Boot Starter并推到远端公服](https://mp.weixin.qq.com/s/J0UcedPhgHiTndk80CNikA)
-- [实践应用：Spring Boot项目集成Ehcache缓存](https://mp.weixin.qq.com/s/OWX-hsk1F11Bvk2PWmnzxA)
-- [实践应用：Spring Boot项目集成自然语言处理工具包HanLP](https://mp.weixin.qq.com/s/2-HdLggtBSmiyJI449cLow)
-- [实践应用：基于Spring Boot实现图片上传/加水印一把梭操作](https://mp.weixin.qq.com/s/PGFDNoNuzlOR0m-tiIQGWw)
-- [实践应用：Spring Boot项目集成EVCache缓存实践](https://mp.weixin.qq.com/s/d7do5NZeu4-yRo2RfJK7uA)
-- [实践应用：Spring Boot项目集成Guava Cache本地缓存实践](https://mp.weixin.qq.com/s/C4VBAm4N3AjvXJ303wdV5A)
-- [实践应用：Spring Boot项目集成MyBatis Generator进行数据层代码自动生成](https://mp.weixin.qq.com/s/ehe7Ub5RAYAql_oPZmerAQ)
-- [实践应用：初探Kotlin+SpringBoot联合编程](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247484900&idx=2&sn=45df41412575afb244f75de08b6bbe7f&chksm=fdded320caa95a36e85c510a1a72951b97a579511db7bd58aba2270020434b5579b8c3ce578f&scene=21#wechat_redirect)
-- [实践应用：Spring Boot项目集成神器Lombok实践](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247485020&idx=1&sn=3c3405807f96a597398f513c48bb094e&chksm=fdded098caa9598e6159bd7315180e149e6a789a3ee75d42b4acaaae96669504e08378eeddae&scene=21#wechat_redirect)
-- [实践应用：Spring项目集成Lombok插件的优缺点分析](https://mp.weixin.qq.com/s/7pv9TwWHzF624sVMFDypvQ)
-- [实践应用：Spring Boot应用监控实战](https://mp.weixin.qq.com/s/dt2B8Pku1dSXQuzDJYiEgQ)
-- [实践应用：Spring Boot项目部署于外置Tomcat容器](https://mp.weixin.qq.com/s/UvFWTyFUUwfRXi1ZqmZdGA)
-- [实践应用：Spring Boot热部署加持](https://mp.weixin.qq.com/s/M5Y1VInGRkx_RHJn9KWBpA)
-- [实践应用：Spring Boot高效数据聚合之道](https://mp.weixin.qq.com/s/N7hzj4IR-di_KEgOts5OBg)
-- [实践应用：Spring项目日志打印常见问题](https://mp.weixin.qq.com/s/p5LTCPgsGoEjuKL0F65PAg)
-- [面试相关：Spring面试夺命连环10连问](https://mp.weixin.qq.com/s/euzbHPpQG2BSKl93N5L1Hg)
-- [面试相关：Spring经典面试题集合](https://mp.weixin.qq.com/s/q4CajkpSUC8TCgv55VK5aQ)
-- [面试相关：Spring Boot基础面试题集合](https://mp.weixin.qq.com/s/cLh9xCDkVG0KV-uaX8PkNw)
-- [面试相关：Spring Cloud基础面试题集合](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
-- [面试相关：说说Spring用到了哪些设计模式？](https://mp.weixin.qq.com/s/ZcKqGT2Sn4wVScExSF9Alg)
-- 内容持续更新中...
-
-
-<!-- panels:end -->
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-## 前后端分离
-
-- [概念科普：到底什么是RESTful ？](https://mp.weixin.qq.com/s/um5kDYBscf5sy7FUhmP7ww)
-- [概念科普：RESTful风格的前世今生](https://mp.weixin.qq.com/s/lrFQUEITm_3zASIBR1mcQw)
-- [概念科普：为什么需要前后端分离？](https://mp.weixin.qq.com/s/Y0z-3r_Mdm-etCwa0GmQmQ)
-- [实践应用：前后端分离的接口规范，我们是如何做的？](https://mp.weixin.qq.com/s/zAOYAcR-6DEJU_s0qXe91g)
-- [实践应用：前后端分离式开发：高效协作10条准则](https://mp.weixin.qq.com/s/niYHlrCDIkA1NqPVI_VJ8w)
-- [实践应用：前后端分离后，接口联调总是甩锅怎么办？](https://mp.weixin.qq.com/s/TqSQ21nNvV5WwWDY_WItQA)
-- [实践应用：前后端分离项目接口优雅数据交互例析](https://mp.weixin.qq.com/s/B-mJjBeJy5W7s2O79Iitqg)
-- [实践应用：前后端分离实践中常遇到的跨域问题](https://mp.weixin.qq.com/s/Sjrgf3Tp3vR5zsNIiYzdpA)
-- [工具推荐：前后端都分离了，该搞个好用的API管理系统了](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
-
-<!-- div:right-panel -->
-
-## 分布式/微服务
-
-- [科普篇：企业里常用的软件架构剖析](https://mp.weixin.qq.com/s/NJFJ5UrzGk0cMGL1oZe0Bg)
-- [科普篇：单体→分布式→微服务，这些年的软件架构是如何发育的](https://mp.weixin.qq.com/s/kfhCEDSUGwnNUbtGDL_rvQ)
-- [科普篇：微服务架构的全局图景分析](https://mp.weixin.qq.com/s/Iy1dguNFkU73r1FxYIvlIQ)
-- [科普篇：分布式架构负载均衡的几种方式](https://mp.weixin.qq.com/s/8CvoGCtGDvMHR91Lx89pxQ)
-- [科普篇：RPC 技术(框架) 大科普](https://mp.weixin.qq.com/s/iTnKumgre3SzrBuWf8KB6g)
-- [原理探究：什么是分布式事务](https://mp.weixin.qq.com/s/_56jq_p_nDUiBwaI2MTlmA)
-- [原理探究：Redis分布式锁保姆级无死角分析](https://mp.weixin.qq.com/s/RViDM1WHE61SDLNKzUmTAg)
-- [原理探究：如何设计一个高并发的秒杀架构？](https://mp.weixin.qq.com/s/fLLd-ml-gdo3-700iJso_A)
-- [原理探究：亿级流量网关设计思路](https://mp.weixin.qq.com/s/J0aSVry1-Ss1OTA-jQAX3w)
-- [原理探究：分布式架构的几个常见的坑](https://mp.weixin.qq.com/s/pg6lyAkgAaqSAZjiPgQTWA)
-- [实践应用：RPC框架实践之：Apache Thrift](https://mp.weixin.qq.com/s/iCw-CHa5ITz6zoQI78Wb3w)
-- [实践应用：RPC框架实践之：Google gRPC](https://mp.weixin.qq.com/s/LdzkBUzvyjMVW7pgzkA23w)
-- [实践应用：Spring Cloud Feign的两种使用姿势](https://mp.weixin.qq.com/s/U4eustBBu9N-6B1SRsYc7w)
-- [实践应用：Spring Cloud Eureka Server高可用之：在线扩容](https://mp.weixin.qq.com/s/oMsZquaphqEJqoGt1dt9WA)
-- [实践应用：Eureka Server 开启Spring Security Basic认证](https://mp.weixin.qq.com/s/tRRwG1jnWi5r1XlbeBlv8g)
-- [实践应用：Eureka Server启用 https服务指北](https://mp.weixin.qq.com/s/EAi7F3lBQ7ZrjSjNnFkj4g)
-- [实践应用：微服务调用链追踪中心搭建](https://mp.weixin.qq.com/s/c55ejzWEU6SQBdcmTTRC1g)
-- [实践应用：利用Zipkin追踪Mysql数据库调用链](https://mp.weixin.qq.com/s/wQRBxBBXCnP0YKPvtIPRcA)
-- [实践应用：一个小团队的微服务架构改造之路](https://mp.weixin.qq.com/s/VjBiUmQNQPpSHeSVjK1C2A)
-- 内容持续更新中...
-
-
-<!-- div:left-panel -->
-## 容器/集群
-
-- [知识总结：常用虚拟化技术（VMware/KVM/Docker）对比](https://mp.weixin.qq.com/s/hVNMfh9nWdilXHSqvyS9ng)
-- [知识总结：Docker从入门到干活，看这一篇入门](https://mp.weixin.qq.com/s/YlcvlUQ-xkz25PuYkeEQqw)
-- [知识总结：Docker Swarm的前世今生](https://mp.weixin.qq.com/s/jf4qWaEYfn0CH5A6fG6MKw)
-- [知识总结：编写高效Dockerfile的几条准则](https://mp.weixin.qq.com/s/MDGvWKkk4npWtqo2k4tsfg)
-- [实践应用：Docker Swarm集群初探](https://my.oschina.net/hansonwang99/blog/1603378)
-- [实践应用：利用ELK搭建Docker容器化应用日志中心](https://mp.weixin.qq.com/s/sO9_TixS0XrKoCKIS9oETw)
-- [实践应用：Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&scene=21#wechat_redirect)
-- [实践应用：Docker容器跨主机通信之直接路由方式](https://mp.weixin.qq.com/s/evxiE6nhK6_y6zLMFWHTKQ)
-- [实践应用：利用TICK搭建Docker容器可视化监控中心](https://mp.weixin.qq.com/s/-54IZbsX2nQIHaMZ1y6fTQ)
-- [实践应用：利用Kubeadm部署Kubernetes 1.13.1集群实践录](https://mp.weixin.qq.com/s/wx68Chw1XaKQ1cb57jTiOw)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：初章）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483699&idx=1&sn=57b84f4ec72c8a578934cdb4225e6fe7&chksm=fdded7f7caa95ee198652c295b48b74565fd244afc4dccc0551b036c8216caab0397a1342d99&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：K8S集群搭建）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483755&idx=1&sn=92a547c579aeacf1db9a8f0e56601b52&chksm=fdded7afcaa95eb9d6aa6cf323bff1df46692fc6a6672e0a483105f091ddf9670fb06d034e2a&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：K8S环境理解和练手）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483758&idx=1&sn=629b6219a06374b2050703b9549037fa&chksm=fdded7aacaa95ebc9a3e88e839515b13109752c26c586032ae60219d2c3b24e13385e1bcd37c&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：基础镜像制作与实验）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483759&idx=1&sn=8403d42fe1769a252f9ee2997fc2f561&chksm=fdded7abcaa95ebd8cdae86f4d692f1f6e92daab74dbbd8c56c6db8fe6aa2a3616ccce1eebb1&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：K8S资源控制）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483760&idx=1&sn=d44f2c744ccdc965fb6c7e4d9efe9f92&chksm=fdded7b4caa95ea278d7363b4b4788d84914b915422a9cc98e7936c3bce0c7ce1197abfac13f&scene=21#wechat_redirect)
-- 内容持续更新中...
-
-<!-- div:right-panel -->
-
-## 缓存/MQ/中间件/服务器
-
-- [缓存：Redis字符串类型内部编码剖析](https://mp.weixin.qq.com/s/tL2HVoeEH9hnalb9-tuoXg)
-- [缓存：Redis哈希结构内存模型剖析](https://mp.weixin.qq.com/s/TdPcIMnv4iKIx3dRjei95A)
-- [缓存：15张图解：为什么Redis这么快](https://mp.weixin.qq.com/s/0R0Evh1QX5BPOQt9233vpQ)
-- [缓存：Redis面试全攻略、面试题大集合](https://mp.weixin.qq.com/s/6NobACeeKCcUy98Ikanryg)
-- [缓存：把Redis当作队列来用，真的合适吗？](https://mp.weixin.qq.com/s/aNdWL3xKtjOd_briXL6Bjg)
-- [缓存：缓存和数据库一致性问题，看这个就够了](https://mp.weixin.qq.com/s/RDOKLnG7P1j5Ehu3EyrsCQ)
-- [缓存：面试官爱问的Redis高频面试题大集合](https://mp.weixin.qq.com/s/lxMP4-Z3DzQg5fRqLs9XNA)
-- [缓存：1分钟科普：什么是缓存穿透、缓存雪崩、缓存击穿？](https://mp.weixin.qq.com/s/m9trzqE3Zd0KHC1cA3PlZQ)
-- [缓存：如何构建一个稳定的高性能Redis集群？](https://mp.weixin.qq.com/s/x1AobPWpMufNWqrBnc5sZg)
-- [缓存：轻量级memcached缓存代理twemproxy初探实践](https://mp.weixin.qq.com/s/Fgg2bNhdOTRfHIzGX86X3Q)
-- [缓存：先更新数据库还是先更新缓存](https://mp.weixin.qq.com/s/SPgtpfgv6bz2AfPa1CYYeQ)
-- [MQ：消息队列RabbitMQ快速入门上手](https://mp.weixin.qq.com/s/WMriUm27CZkiSWEt1f4lig)
-- [MQ：Kafka快速入门上手](https://mp.weixin.qq.com/s/bUNAD2fkGTD73jVLw8rDHg)
-- [MQ：从面试角度一文学完Kafka](https://mp.weixin.qq.com/s/o-rqnOH4FHeHaz0VqoHnFg)
-- [MQ：为什么Kafka用得这么多？](https://mp.weixin.qq.com/s/vC0YbMJxHqs0JfcdAxjhHg)
-- [MQ：刨根问底之Kafka到底会不会丢消息](https://mp.weixin.qq.com/s/PDvG5vSuA_NCkJ3mMUua5w)
-- [MQ：大厂面试必备之消息队列连环问](https://mp.weixin.qq.com/s/u6_WH-r1bRc4m7CUm21Tew)
-- [MQ：后端岗面试必备之Dubbo九连问](https://mp.weixin.qq.com/s/wM0Vj_YMh7881NwK-AwKSw)
-- [服务器：Nginx服务器开箱体验](https://mp.weixin.qq.com/s/mif0NmY1Ij6lapHppb6LFg)
-- [服务器：从一份配置清单详解Nginx服务器配置](https://mp.weixin.qq.com/s/099PJZE89JVNnaF0kwePDQ)
-- [服务器：为什么Nginx能轻松撑起几万并发](https://mp.weixin.qq.com/s/VR1jEhJVXCfja3Pmo_kKkw)
-- [搜索引擎：CentOS7上搭建多节点Elasticsearch集群](https://mp.weixin.qq.com/s/pdQNDMQQnXpoVKIA8JpyQQ)
-- [搜索引擎：一文上手Elasticsearch常用可视化管理工具](https://mp.weixin.qq.com/s/BE8LrpviJNXGV41bhzGFTw)
-- [搜索引擎：从一份定义文件详解ELK中Logstash插件结构](https://mp.weixin.qq.com/s/d2maG61HB2_rU56DYD2A9w)
-- [搜索引擎：Elasticsearch索引的映射配置详解](https://mp.weixin.qq.com/s/C8JTxdjeSCR22xeAiLHHGg)
-- [其他中间件：ZooKeeper面试常见十二问](https://mp.weixin.qq.com/s/ir0uurwo95hB3g__vTceJQ)
-- [其他中间件：基于代理的数据库分库分表框架Mycat实践](https://mp.weixin.qq.com/s/3L5PcA0dGlrqJ2FjM_C77Q)
-- 内容持续更新中...
-
-<!-- div:left-panel -->
-
-
-<!-- panels:end -->
-
----
----
-# **书籍/资料推荐**
----
-
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/bookref.32p5e3kiqri0.jpg" width=""/>
-    </a>
-</p>
-
----
-> [!TIP]
->  - 毫无疑问的是，对于上文提到的 **「编程基础」** 部分，有大量经典的书籍值得阅读，每一本都是大师们若干年经验的汇聚，所以学好编程基础，对于我们普通人来说，看书是一个非常直接有效的方式。
->  
->  - 很多经典书看一遍可能远远不够，正所谓 **「初看懵、再看迷、三看发现有点小意思」** 讲的就是这个道理，这事急不得，而且有些东西的确需要一个反反复复的过程，有些甚至是在工作后的实践中才会遇到，所以珍惜每一次回炉重造的过程吧。
----
-
-书籍资料推荐：
-
-- [Java开发：我的Java后端开发小书架](https://mp.weixin.qq.com/s/voNG467kSVfR-yjwelQhow)
-- [Java开发：一份Java程序员的珍藏书单](https://mp.weixin.qq.com/s/OislKcvk-YSFstIl2PcrbA)
-- [C/C++开发：自学C/C++书籍整理](https://www.bilibili.com/video/BV1ob411m76i)
-- [前端开发：前端开发学习资料+书籍盘点](https://mp.weixin.qq.com/s/JFmj5cMhpJ2BKFq2p4IQGw)
-- [嵌入式开发：嵌入式开发学习资料+书籍推荐](https://mp.weixin.qq.com/s/nkBsUgbuMK3ArHfFc2417w)
-- [视频：我的计算机编程书单](https://www.bilibili.com/video/BV1kJ411W7pi)
-
-互联网开源教程推荐：
-
-- [羊哥当时自学数据结构和算法的9大工具](https://mp.weixin.qq.com/s/f9dfQQbpKjMopH6m2Gjiiw)
-- [拜访了这位小哥的GitHub后，我失眠了](https://mp.weixin.qq.com/s/-Xp84QH5zQvvHaGWTJF9MA)
-- [GitHub上这份计算机自学指南火了~](https://mp.weixin.qq.com/s/C48HcLYlLbYx1O82U0mpyg)
-- [GitHub 40000星！收下这份宇宙最强「程序员生存指南」](https://mp.weixin.qq.com/s/V_Dfs44C3wtzlMGdUgY7qg)
-
-<p align="left" style="color:black">
-编程资源汇总和下载 → 
-  <a href="#README?id=资源汇总和下载" style="color:blue">点击查看
-  </a>
-</p>
-
-<p align="left" style="color:#34495e">
-编程视频教程推荐 → 
-  <a href="#README?id=视频教程推荐">点击查看
-  </a>
-</p>
-
----
-# **项目经验获得**
-
-## 自学党如何获得项目经验？
-
-<p align="center">
-
-<iframe src="//player.bilibili.com/player.html?aid=541205956&bvid=BV1Ai4y1V7PX&cid=208099724&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-</p>
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-## 个人博客/网站搭建
-
-- [拥有一台属于自己的公网云服务器！](https://www.aliyun.com/minisite/goods?taskPkg=1212cpz&pkgSid=182176&userCode=eso7wf2g)
-- [手把手教你从0开始搭建自己的个人博客之：Hexo版](https://www.bilibili.com/video/BV1Yb411a7ty)
-- [手把手教你从0开始搭建自己的个人博客之：Hugo版](https://www.bilibili.com/video/BV1q4411i7gL)
-- [手把手教你从0开始搭建自己的个人博客之：Wordpress+Docker版](https://www.bilibili.com/video/BV12E41127Uj)
-- [建站神器：Hexo+Kaze+Gitee！](https://mp.weixin.qq.com/s/DrEc8FqycC15hp2X010wxQ)
-- [Win10下Hexo博客搭建教程及阿里云服务器部署实战](https://mp.weixin.qq.com/s/JTTUYJTvtdT6X2fvLUBFZg)
-
-## 开源项目
-
-- [开源协议：开源软件的许可协议，先了解一下](https://mp.weixin.qq.com/s/ojGRSWSaJutAsBC0i5_6jA)
-- [Java开源项目：看完这篇，别人的Java开源项目结构应该能看懂](https://mp.weixin.qq.com/s/5Ar5B9Ah2BdO8i9YjMQ7Qg)
-- [Java开源项目：Java领域学习和练手的开源项目分享：第一弹](https://mp.weixin.qq.com/s/PmxVlkI9LUmnqqSk0Frqeg)
-- [Java开源项目：Java领域学习和练手的开源项目分享：第二弹](https://mp.weixin.qq.com/s/y59hmDbQj1QglVj90viZqw)
-- [Java开源项目：Java领域学习和练手的开源项目分享：第三弹](https://mp.weixin.qq.com/s/jjugnXIr3G0u7i9krbmmqg)
-- [C/C++开源项目：几款适合初学者学习和练手的C/C++开源项目](https://mp.weixin.qq.com/s/bRNiqhZZXaoRwPEt8GIpLg)
-- [C/C++开源项目：几款适合进阶学习和练手的C/C++开源项目](https://mp.weixin.qq.com/s/fNgOqKlITKa4yTbULO2Atw)
-- [人工智能开源项目：AI领域几款标杆开源项目大巡礼](https://mp.weixin.qq.com/s/I9lr_SEg70OO_v-GOIUgjQ)
-- [Python开源项目：几个炫酷的Python开源项目](https://mp.weixin.qq.com/s/Fu4OMojTJK0MrZohsLOx4w)
-- [读源码的7大心得总结](https://mp.weixin.qq.com/s/eWN7I8eHGE2exrdF3xziIA)
-
-<!-- div:right-panel -->
-
-## 实际项目需求和问题例析
-
-- [实践案例：实际项目业务接口的幂等性问题](https://mp.weixin.qq.com/s/gqvgysyGcP3yr0of_GwaTw)
-- [实践案例：URL短链接服务如何设计](https://mp.weixin.qq.com/s/KPUuCU-q1SqnHzeyQeQzhw)
-- [实践案例：亿行数据超大文件如何高效导入生产数据库](https://mp.weixin.qq.com/s/A-ZwcxlkB7Groe4k4Vq1Ew)
-- [实践案例：订单系统一般怎么设计](https://mp.weixin.qq.com/s/-3g1ljoIrYWhhTHTF2RmLw)
-- [实践案例：百亿级数据分表后如何分页查](https://mp.weixin.qq.com/s/EplL3kBx5vOXGDhDOP8NjQ)
-- [实践案例：线上服务的YGC问题排查例析](https://mp.weixin.qq.com/s/-8xYoAkBUoavcSl69I0XJw)
-- [实践案例：线上服务的FGC问题排查例析](https://mp.weixin.qq.com/s/Sjh9qFPKF250vLQGZig6nw)
-- [实践案例：一个小团队的微服务架构改造之路](https://mp.weixin.qq.com/s/VjBiUmQNQPpSHeSVjK1C2A)
-- [实践案例：一个遗留项目的SQL优化实战录](https://mp.weixin.qq.com/s/MA7FVeJDMg8WDJABiBWpBA)
-- [实践案例：分布式锁使用不当导致的业务损失例析](https://mp.weixin.qq.com/s/OhkdQJ10biLOIezXc_vhkA)
-- [实践案例：定时任务的几种简单方案](https://mp.weixin.qq.com/s/0p44f213fYdtr5LPJlrfLQ)
-- [实践案例：项目常用的6种URL去重方案汇总](https://mp.weixin.qq.com/s/3zXdH2MALmWj57MWt0dImw)
-- [实践案例：分布式系统架构的几个常见的坑](https://mp.weixin.qq.com/s/pg6lyAkgAaqSAZjiPgQTWA)
-- [项目架构科普：企业里常用的软件架构剖析](https://mp.weixin.qq.com/s/NJFJ5UrzGk0cMGL1oZe0Bg)
-- [项目架构科普：单体→分布式→微服务，这些年的软件架构是如何发育的](https://mp.weixin.qq.com/s/kfhCEDSUGwnNUbtGDL_rvQ)
-- [项目架构科普：微服务架构的全局图景分析](https://mp.weixin.qq.com/s/Iy1dguNFkU73r1FxYIvlIQ)
-- [原理解析：如何设计一个高并发的秒杀架构？](https://mp.weixin.qq.com/s/fLLd-ml-gdo3-700iJso_A)
-- [原理解析：高并发系统设计的常见问题小结](https://mp.weixin.qq.com/s/ZzxmDbs08waUCtO7PeUhqw)
-- [原理解析：亿级流量网关设计思路](https://mp.weixin.qq.com/s/J0aSVry1-Ss1OTA-jQAX3w)
-- [原理解析：实际网站用户密码是如何存储的](https://mp.weixin.qq.com/s/Fd3cUDrqr0CsCl7FvZgd7Q)
-- [原理解析：死磕搜索引擎背后的故事](https://mp.weixin.qq.com/s/Q1rZYvgklC_mBqfmIEC0Dw)
-- [原理解析：用微信扫码登录的背后发生了什么](https://mp.weixin.qq.com/s/1lG-aAyVycO4zTbOqdy6BA)
-- [原理解析：扫码付款背后的原理解析](https://mp.weixin.qq.com/s/RjVLsAhiMIYzsMhXJiReNg)
-- [原理解析：收款码背后的原理剖析](https://mp.weixin.qq.com/s/1b9jBfwM9_RLkMPquqAuMw)
-- [原理解析：支付掉单背后的几个问题](https://mp.weixin.qq.com/s/Kske9ahRcIUM5XEs2ZIN3A)
-- [原理解析：手机没网却能支付成功的背后原理](https://mp.weixin.qq.com/s/VROp_0M3mz5Zhhnz0ZSmKQ)
-- [原理解析：高并发场景下，先更新缓存还是先更新数据库？](https://mp.weixin.qq.com/s/1FDb63R_OMbSJo9VOWSr3Q)
-- [原理解析：如何保证缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/RDOKLnG7P1j5Ehu3EyrsCQ)
-- [原理解析：什么是分布式事务？](https://mp.weixin.qq.com/s/_56jq_p_nDUiBwaI2MTlmA)
-- [原理解析：Redis分布式锁实践分析](https://mp.weixin.qq.com/s/RViDM1WHE61SDLNKzUmTAg)
-- [原理解析：高并发下如何保证接口的幂等性？](https://mp.weixin.qq.com/s/QgliAGeUAISQVR4VNWqdgA)
-- [原理解析：如何实现丝滑的数据库扩容](https://mp.weixin.qq.com/s/1VCC3i6ZCk7sb9kVRZ1czQ)
-- [原理解析：如何构建一个稳定的高性能Redis集群？](https://mp.weixin.qq.com/s/x1AobPWpMufNWqrBnc5sZg)
-- 内容持续更新中...
-
-
-<!-- panels:end -->
-
----
-# **面试准备和求职**
-
----
-> [!NOTE]
->  该板块会持续更新各技术方向的求职面试题集合、面经、以及一些小伙伴的求职心得与经历感悟。
-
-## 简历相关
-
-- [资源下载 → 简历模板下载（word版）](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
-- [程序员写简历时必须注意的技术词汇拼写](https://mp.weixin.qq.com/s/q5gPSIiJqVvbI6Xa4dMXwA)
-- [国内程序员最容易发音错误的单词集合](https://mp.weixin.qq.com/s/VJsp5SzGuOCGl-mWdbtCxQ)
-
-## 工作岗位科普
-
-- [科普：学C++的以后能从事哪些岗位](https://mp.weixin.qq.com/s/LEWBkJ5wkAIIcuv98g1Yhg)
-- [科普：物联网行业的岗位、技能](https://mp.weixin.qq.com/s/AtSMfjq0GXQdVxo2o6s3-g)
-- [科普：学Linux的以后能做什么](https://mp.weixin.qq.com/s/EA_iYwpSIMQGgpCrvvVOzA)
-- 持续更新中 ...
-
-## 面试题集合
-
-<!-- panels:start -->
-
-<!-- div:left-panel -->
-
-- [C/C++：C语言/C++基础面试知识大集合](https://mp.weixin.qq.com/s/7mx58Idw1pL0MjPIFBUB1Q)
-- [C/C++：68道C语言/C++常见面试题集合](https://mp.weixin.qq.com/s/BRQ-3uvstdZPO-cnLGCVzA)
-- [Java：Java面试题硬核全梳理 ~](https://mp.weixin.qq.com/s/p1zxnGVeTDJiyjgowRIoBA)
-- [Java：10道精选Java基础面试题集合](https://mp.weixin.qq.com/s/oBDrFnuk1lbfuNHkrhAC5w)
-- [Java：Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
-- [Java：Java集合硬核面试50问（附答案）](https://mp.weixin.qq.com/s/si_V6J_6ZZn4Akc12mMk2g)
-- [Java：面试必问的JVM GC机制精讲](https://mp.weixin.qq.com/s/bHkgpznnqixDNyDKwdAbOg)
-- [Java：JVM虚拟机面试题大集合](https://mp.weixin.qq.com/s/T2DqgJ9-0QiRZQYUeR3c8w)
-- [Java：JVM垃圾回收硬核18问](https://mp.weixin.qq.com/s/XsZUF2nBUSEJoGIA8RimJw)
-- [Java：面试官常问的一些JVM面试题](https://mp.weixin.qq.com/s/ZYoeC8yyfReEJDFSqiW8hw)
-- [Java：Java并发和多线程基础面试题大集合](https://mp.weixin.qq.com/s/pIVf97W4DuAPNxq6zgRvsQ)
-- [Java：面试常问的ThreadLocal源码剖析](https://mp.weixin.qq.com/s/ND-nUCGvXTHkEClKqN1qrQ)
-- [Java：面试常问的线程池例析](https://mp.weixin.qq.com/s/TF04dB-i0q0-dOTqlprmYA)
-- [Java：面试常问的volatile剖析](https://mp.weixin.qq.com/s/kQ498ifh4OUEDd829JIhnQ)
-- [Java：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
-- [Java：说说什么是Java内存模型](https://mp.weixin.qq.com/s/lEgHPertXyguZIkv61LlKQ)
-- [Java：浮点数精度问题面试例析](https://mp.weixin.qq.com/s/VXRRMabz_fvwnZeLWT-ybg)
-- [计网：面试最爱问的三次握手和四次挥手问题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
-- [计网：计算机网络高频12问](https://mp.weixin.qq.com/s/PIGfhMaAx9R5C4x5eJQnIw)
-- [计网：GET和POST到底有什么区别](https://mp.weixin.qq.com/s/H4gbg7bfnw61jZQcapTnMw)
-- [计网：TCP/UDP 部分高频面试题大集合](https://mp.weixin.qq.com/s/doxVJZ1G6187B4AOXb0JlA)
-- [计网：HTTP常见面试题集合](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
-- [计网：浏览器输入网址并回车，后面到底发生了什么](https://mp.weixin.qq.com/s/t2Csrl7idUXISKW54cpV1g)
-- [计网：都说HTTP协议是无状态的，这里的「状态」到底指什么？](https://mp.weixin.qq.com/s/EZwOUGMrGKEF_POisJKmuw)
-- [操作系统：操作系统面试题集合](https://mp.weixin.qq.com/s/lR_A3jbfRiRjchz_lyyKxw)
-- [操作系统：内存管理部分8个常见面试题汇总](https://mp.weixin.qq.com/s/5f3ku77xSO8UlaOsTkOnHQ)
-- [操作系统：操作系统面试题大分享](https://mp.weixin.qq.com/s/oTEMOQY1xcG8uVceW-kLDA)
-- [操作系统：面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
-- [应用框架：Spring夺命连环10连问](https://mp.weixin.qq.com/s/euzbHPpQG2BSKl93N5L1Hg)
-- [应用框架：Spring 经典面试题大集合](https://mp.weixin.qq.com/s/q4CajkpSUC8TCgv55VK5aQ)
-- [应用框架：Spring Boot基础面试题大集合](https://mp.weixin.qq.com/s/cLh9xCDkVG0KV-uaX8PkNw)
-- [应用框架：Spring Cloud基础面试题大集合](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
-
-<!-- div:right-panel -->
-
-- [数据库：MySQL面试硬核25问（附答案）](https://mp.weixin.qq.com/s/vdOOVQtZhrJXsvRUjq0HqQ)
-- [数据库：先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s/SPgtpfgv6bz2AfPa1CYYeQ)
-- [数据库：如何保证缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/RDOKLnG7P1j5Ehu3EyrsCQ)
-- [数据库：面试官最爱的MySQL连环问](https://mp.weixin.qq.com/s/8ddEzG-NzzFD35ehvbER7A)
-- [数据库：如何实现丝滑的数据库扩容](https://mp.weixin.qq.com/s/1VCC3i6ZCk7sb9kVRZ1czQ)
-- [数据库：数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
-- [数据库：为什么MySQL索引要用B+ tree](https://mp.weixin.qq.com/s/d7Zfat2fP6IX5DMKKtEIjQ)
-- [数据库：为什么用了索引，SQL查询还是慢](https://mp.weixin.qq.com/s/-mOOchaXx_pKI6qWhohEnA)
-- [数据库：慢SQL背后的原理是什么](https://mp.weixin.qq.com/s/iBnav_WPrX5vjR-NbdNeQg)
-- [数据库：30道保底的MySQL数据库面试题汇总](https://mp.weixin.qq.com/s/aBboeqEphejICklAKLqS2Q)
-- [数据库：用心整理的9道MySQL面试题](https://mp.weixin.qq.com/s/JQCtqM6aep3jtgiRL_9J5g)
-- [中间件：面试官爱问的Redis高频面试题集合](https://mp.weixin.qq.com/s/lxMP4-Z3DzQg5fRqLs9XNA)
-- [中间件：Redis面试全攻略、面试题大集合](https://mp.weixin.qq.com/s/6NobACeeKCcUy98Ikanryg)
-- [中间件：什么是缓存穿透、缓存雪崩、缓存击穿？](https://mp.weixin.qq.com/s/m9trzqE3Zd0KHC1cA3PlZQ)
-- [中间件：说说为什么Redis能这么快？](https://mp.weixin.qq.com/s/0R0Evh1QX5BPOQt9233vpQ)
-- [中间件：如何构建一个稳定的高性能Redis集群？](https://mp.weixin.qq.com/s/x1AobPWpMufNWqrBnc5sZg)
-- [中间件：把Redis当作队列来用，真的合适吗？](https://mp.weixin.qq.com/s/aNdWL3xKtjOd_briXL6Bjg)
-- [中间件：Redis分布式锁的详细分析](https://mp.weixin.qq.com/s/RViDM1WHE61SDLNKzUmTAg)
-- [中间件：ZooKeeper面试十二连问](https://mp.weixin.qq.com/s/ir0uurwo95hB3g__vTceJQ)
-- [中间件：消息队列面试连环问总结](https://mp.weixin.qq.com/s/xpSel2nsLkf3yck5edNMJQ)
-- [中间件：Kafka面试要点梳理](https://mp.weixin.qq.com/s/o-rqnOH4FHeHaz0VqoHnFg)
-- [中间件：说说你对RPC技术是怎么理解的？](https://mp.weixin.qq.com/s/iTnKumgre3SzrBuWf8KB6g)
-- [中间件：后端岗面试必备之Dubbo九连问](https://mp.weixin.qq.com/s/wM0Vj_YMh7881NwK-AwKSw)
-- [中间件：为什么Nginx能轻松撑起几万并发？](https://mp.weixin.qq.com/s/VR1jEhJVXCfja3Pmo_kKkw)
-- [系统架构：企业里常用的软件架构科普](https://mp.weixin.qq.com/s/NJFJ5UrzGk0cMGL1oZe0Bg)
-- [系统架构：单体→分布式→微服务，这些年的软件架构是怎么发展的](https://mp.weixin.qq.com/s/kfhCEDSUGwnNUbtGDL_rvQ)
-- [系统架构：如何设计一个高并发的秒杀架构？](https://mp.weixin.qq.com/s/fLLd-ml-gdo3-700iJso_A)
-- [系统架构：分布式架构的几个常见的坑](https://mp.weixin.qq.com/s/pg6lyAkgAaqSAZjiPgQTWA)
-- [系统架构：说说分布式架构负载均衡的几种方式](https://mp.weixin.qq.com/s/8CvoGCtGDvMHR91Lx89pxQ)
-- [系统架构：说说什么是分布式事务？](https://mp.weixin.qq.com/s/_56jq_p_nDUiBwaI2MTlmA)
-- [系统架构：亿级流量网关的设计思路](https://mp.weixin.qq.com/s/J0aSVry1-Ss1OTA-jQAX3w)
-- [设计模式：说说Spring用到了哪些设计模式？](https://mp.weixin.qq.com/s/ZcKqGT2Sn4wVScExSF9Alg)
-
-<!-- panels:end -->
-
-## 求职经历分享
-
-- [小伙伴经历分享：Linux后台开发该如何准备](https://mp.weixin.qq.com/s/joFBDntI9PmyVRiKPHwpRg)
-- [二本无实习上岸滴滴京东58复盘(一)](https://mp.weixin.qq.com/s/V0nRwXQlkNBnBneERZQURQ)
-- [二本无实习上岸滴滴京东58复盘(二)](https://mp.weixin.qq.com/s/BnbBQGL-S2sGdRtNh7DN1A)
-- [小伙伴面经分享(一)：深信服(含答案)](https://mp.weixin.qq.com/s/3YfKHo2lW-NC1tEA_u-mlQ)
-- [小伙伴面经分享(二)：京东(含答案)](https://mp.weixin.qq.com/s/sc-7rc6obYZNFcc1mjNPAg)
-- [一位程序媛的秋招软件开发岗面试经历](https://mp.weixin.qq.com/s/jAPYcMULqQl6AE_Vv7BZhQ)
-- [写简历→面试→谈薪：一绿向北](https://mp.weixin.qq.com/s/0RoFVAezxW8cl3bjlAHbQg)
-- [小红书后台开发岗面试经历复盘~](https://mp.weixin.qq.com/s/4L3J45Wj81yjoZIQ3ZVSog)
-- [国企和银行：面试都问些啥？如何准备？](https://mp.weixin.qq.com/s/34SdkDyMvpVmoCFEB4UF-g)
-- [招银网络（银行科技岗）面试都问了些啥？](https://mp.weixin.qq.com/s/4hP8s7TzsOv_tdQtOdCdig)
-- [准备提前批？还是去实习？还是准备秋招？](https://mp.weixin.qq.com/s/jy0g3ohLzbtD-6JeCeMVvw)
-- [7面Google，面经分享](https://mp.weixin.qq.com/s/9Fb8w2XwkXQpj8agBtdmFg)
-- [化学专业大二转码的抉择之路](https://mp.weixin.qq.com/s/j6poLkiomb80jTE7EaFVJA)
-- [拿到腾讯实习Offer的经历分享](https://mp.weixin.qq.com/s/-27fvvzBpmwwuAFANRoeIA)
-- [怎么准备国企和银行？](https://mp.weixin.qq.com/s/YP4qafQ8gPbB7W0CkfACug)
-- [去银行当程序员是一种什么体验](https://mp.weixin.qq.com/s/u_jIpGfmH4BHYS7hIlQk9w)
-
-
-## 城市/公司选择
-
-- [一二线城市知名IT互联网公司总名单](https://mp.weixin.qq.com/s/VFocc914mGTrDzodI-MF1A)
-- [常见互联网公司职级和薪资一览](https://mp.weixin.qq.com/s/5gtu7B05EKbPDXvhha5uNQ)
-- [常见互联网公司时薪排行榜](https://mp.weixin.qq.com/s/wvdzBTcLLaeEtCqZI6T_Qg)
----
-- [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UDWHt3QwsZBfZ25-pddwhQ)
-- [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/bjHmAtPrSKQCDjfr9Mu0_Q)
-- [南京有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/kskE2wJx_QtT6vCgsrUgIA)
-- [合肥有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/tBNWFJbkjkV0bEPh4t9VQg)
-- [深圳有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/dtJBi4QXXTrGkKTPM0y7VA)
-- [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/t4L45znsZRmWQ7MIQQtvhg)
-- [西安有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/eD3tjUC4qASHH0WSWhz57Q)
-- [长沙有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UQHJ-iZDvQb3RLwQsELbUQ)
-- [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/6dh1jbmuDqnHBoM7beTQbg)
-- [天津有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Ks9XLLUh099wSHWG0OBf1g)
-- [郑州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/8-uZUrG8_ziR5tKl1K8YNw)
-- [杭州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Bwu0MDQhZiaY0vj3HsEsLg)
-- [广州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/s5UhdFyj9-8bqwQyZUMvVA)
-- [青岛有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/Miu3eC6hqJlK8fi8Qr-DtQ)
-- [上海有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/zYI8qW3Zfu2ySeO-PDqwZA)
-- [大连有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/12inr2oRTULf7NhYOBGMYw)
-- [苏州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/529Zv24uToDW4xxEOFdiqw)
-
-## 其他求职相关问题
-
-- [为什么有些大公司技术却弱爆了？](https://mp.weixin.qq.com/s/QUJzl1ZG77DDnQNK0OAsHg)
-- [嵌入式行业到底有没有搞头？](https://mp.weixin.qq.com/s/iV7DMApxhEw5YL-upIowVA)
-- [找工作时，公司所说的「给期权」到底是什么东西？](https://mp.weixin.qq.com/s/9XMAvP_t0B1Ev57-ZC42yw)
-- [入职一家公司，应该选择新业务还是老业务？](https://mp.weixin.qq.com/s/cu7mDeU2q2uEG8Q0CPzDEA)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-
-
----
-# **视频教程推荐**
-
----
-> [!NOTE]
->  对于学习编程的小伙伴来说，网上有海量现成的宝贵视频学习资源可供食用。
->  所以该板块会持续甄选和更新互联网上那些优秀的、值得反复观看的技术视频教程。
----
-
-<!-- tabs:start -->
-
-#### **数据结构和算法**
-
----
->  - **《郝斌 数据结构入门》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=6159200&bvid=BV11s41167h6&cid=10001692&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
->  - **《数据结构-浙江大学》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=18586085&bvid=BV1JW411i731&cid=30323260&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
->  - **《数据结构与算法基础（青岛大学-王卓）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=82837069&bvid=BV1nJ411V7bd&cid=141710539&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
->  - **《尚硅谷 Java数据结构与算法）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=54029771&bvid=BV1E4411H73v&cid=261675748&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **计算机网络**
-
----
-> - **《计算机网络微课堂》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=64605483&bvid=BV1c4411d7jb&cid=112161859&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《2019 王道考研 计算机网络》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=70228743&bvid=BV19E411D78Q&cid=121579556&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《韩立刚 计算机网络》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=415599826&bvid=BV1gV411h7r7&cid=262615706&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《计算机网络（谢希仁第七版）-方老师》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=421258608&bvid=BV1H3411y7q6&cid=430413734&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-#### **操作系统**
-
-> - **《2020 南京大学  操作系统：设计与实现 (蒋炎岩) 》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=89733537&bvid=BV1N741177F5&cid=153258157&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
----
-> - **《操作系统（哈工大李治军老师）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=51437944&bvid=BV1d4411v7u7&cid=90016520&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **计算机组成原理**
-
----
-> - **《计算机组成原理（哈工大刘宏伟）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=51650260&bvid=BV1t4411e7LH&cid=90407902&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **编译原理**
-
----
-> - **《编译原理（哈工大）》**
-
-<p align="center">
-<iframe src="//player.bilibili.com/player.html?aid=17649289&bvid=BV1zW411t7YE&cid=28812645&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</p>
-
-#### **更多敬请期待...**
-
----
-
-更多的视频教程资源会持续更新，敬请期待...
-
-<!-- tabs:end -->
-
----
-# **资源汇总和下载**
-
----
-> [!NOTE]
->  该版块会持续更新那些优秀的编程资源，**包括但不限于：**各种硬核的PDF笔记、软件包、技术手册、自制文档、题解解析、简历模板、面试题文档 等等。
----
-
-## 编程学习资源大整理
-
-前段时间我花了大把力气，把自用的编程学习资源做了个大整理。
-
-都是纯肝货，目录如下，有需要的可以自取。
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/rescollection.2twl61h5k0s0.jpeg)
-
-- 下载链接：https://pan.baidu.com/s/1jEjcF96iVAXEXaadE1V6RQ
-- 提取码：f23d
-
-## PDF干货笔记下载
-
-- [下载 → LeetCode算法刷题Golang版答案PDF文档](https://mp.weixin.qq.com/s/EaDLaLy3YjrNiSoNofwMMA)
-- [下载 → LeetCode算法刷题C++版答案PDF文档](https://mp.weixin.qq.com/s/qR6KTfldk41lsOj1Ghp6Og)
-- [下载 → LeetCode算法刷题Java版答案PDF文档](https://mp.weixin.qq.com/s/kWTJ9640mPegr5wqVE0GMg)
-- [下载 → 谷歌学长的数据结构+算法题代码笔记手册](https://mp.weixin.qq.com/s/gXH98f1p5cCYVETCn9w9kA)
-- [下载 → 再肝两夜，写了个「服务器项目部署」实战PDF手册](https://mp.weixin.qq.com/s/JUJ6qu_ec3s1JmTxQt_V3g)
-- [下载 → 熬10天夜，肝出了这个PDF版「软件安装手册」](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
-- [下载 → 熬了7天夜，羊哥肝了个Linux速查备忘手册！](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
-- [下载 → Java后端开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/x9E7ogAxFNpODXkAXCZZ3w)
-- [下载 → 前端开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/xUKlD-Ro4x55NfANAwxJUw)
-- [下载 → 大数据开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/vBCwU-BCsGVNpjJM__LheQ)
-- [下载 → 嵌入式开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/nkBsUgbuMK3ArHfFc2417w)
-- [下载 → C/C++后台开发学习路线+知识点梳理总结](https://mp.weixin.qq.com/s/ac8vgjob8nDqM1Q7FGLRiA)
-- [下载 → 找工作简历模板集(word格式) ](https://mp.weixin.qq.com/s/EKBRCNr_3n0y8CCSUNPdPg)
-- [下载 → 程序员写简历时的技术词汇拼写规范PDF手册](https://mp.weixin.qq.com/s/q5gPSIiJqVvbI6Xa4dMXwA)
-- [下载 → Java基础核心知识大总结PDF文档](https://mp.weixin.qq.com/s/jn7oraFlhRkOmiv3rh74WA)
-- [下载 → C/C++常见面试题（含答案）PDF文档](https://mp.weixin.qq.com/s/BRQ-3uvstdZPO-cnLGCVzA)
-- [下载 → 设计模式学习笔记PDF文档](https://mp.weixin.qq.com/s/miV4SH1Eb_FMogQ2XYvPuA)
-- [下载 → Java多线程+并发编程知识点详细总结PDF](https://mp.weixin.qq.com/s/EGQAuvITVJT3fZUdQG84sw)
-- [下载 → 阿里Java开发手册PDF全套](https://mp.weixin.qq.com/s/J-vlX5tIuXWdglXWewK0FQ)
-
-
-## 其他资源下载
-
-- [下载 → 我的浏览器收藏夹大公开（附浏览器收藏夹书签下载）](https://mp.weixin.qq.com/s/XUHnLCbq7mDWhOc9imTVzg)
-- [下载 → 豆瓣9.1分的Pro Git学习手册YYDS！](https://mp.weixin.qq.com/s/xDYSG4uDz9rgNCuk0RxLjg)
-- [下载 → 《Linux命令行大全》.pdf手册](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
-
----
-# **编码之外**
-
----
-> [!NOTE]
->  诚然，程序员应该重视代码，但眼里也不应该只有代码，很多代码之外的东西也很精彩。工作也是为了更好的生活，多看看身边的事，多关心身边的人，终究我们还是要回归到平凡的生活中。
-> 
->  **我们所热爱的，就是自己的生活！**
----
-
-## 码农生活
-
-- [办公室划水？嘿嘿，这事我擅长...](https://mp.weixin.qq.com/s/zRU-n-5VOgrMqG09477RyQ)
-- [戴着耳机敲代码，我都听些啥？](https://mp.weixin.qq.com/s/7_2ibVNVMZLEYl89zT7sGQ)
-- [程序员猪队友行为大赏，你遇到过哪些？](https://mp.weixin.qq.com/s/1dJO8VJ6GaZykv33IUslkw)
-- [写给程序员看的买房+考公务员攻略](https://mp.weixin.qq.com/s/f8KtgdRx6ATbR-4RY_I_aA)
-- [毕业租房避坑攻略（含购物清单）](https://mp.weixin.qq.com/s/9fyrQPqfXx2bhbXjyYdnaw)
-- [加班严重时该如何自我提升？](https://mp.weixin.qq.com/s/oCQWlUkQ7ezgtYdono3BzA)
-- [在腾讯待了9年还离了职](https://mp.weixin.qq.com/s/SclEMeRJTqSVq-HsXaLNTQ)
-- [聊一聊自学计算机的辛酸史](https://mp.weixin.qq.com/s/AFnB33Rs7ahbjiX1CqfccQ)
-- [一个算法工程师的日常](https://mp.weixin.qq.com/s/-vBrii3kn5lNn0Bj4rzAdg)
-- [测试岗与开发岗的那些爱恨情仇](https://mp.weixin.qq.com/s/3Vf49cYXfwp6znt_SJhgsg)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [这就是架构师一天的生活，还羡慕不？](https://mp.weixin.qq.com/s/rMqSG84kNtLJ5Oiwk-S7Qw)
-- [程序员是如何玩浪漫的？](https://mp.weixin.qq.com/s/vI7EGqo7YbljRdZn2nUSMQ)
-- [假如曹操是一名程序员，你猜怎么着？](https://mp.weixin.qq.com/s/AE8dGz9asZ1de2-kvCiZwQ)
-- [周末无聊，我都逛哪些资讯类网站充电呢？](https://mp.weixin.qq.com/s/yE_fShdcgE1e1bnpHiLWyA)
-- [亲历分享：一行代码，百万人民币打水漂](https://mp.weixin.qq.com/s/dj3Z8-kgpCzzc-bQQgg__g)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-- [IT领域的2/8法则，扎心了](https://mp.weixin.qq.com/s/wd9QkLsrygO8ADW6heJg8w)
-- [周一划水必备：程序员专属GIF动图批发](https://mp.weixin.qq.com/s/Gy-Qs80rHKDJwapCmYGGEg)
-- [521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
-- [一位半路转行计算机的女生](https://mp.weixin.qq.com/s/xfKoK3cQvcz-WGh50LiSBg)
-- [程序员界的孔乙己](https://mp.weixin.qq.com/s/dW81quoXMRA2ObwTzIv74g)
-- [我的大学四年收获及工作感悟](https://mp.weixin.qq.com/s/x9EEDlGNIOPOL3v_qZiiAQ)
-- [离职后，华为的哪些东西是自己最留恋的？](https://mp.weixin.qq.com/s/g5nb-yti5bv9_OCRqIjFCQ)
-- [华为最美小姐姐，被外派到墨西哥后...](https://mp.weixin.qq.com/s/Dk-9se1eFl44NdmWB_sFOQ)
-- [我在南大的七年](https://mp.weixin.qq.com/s/HrSitzmxTxWw4atXQHCa_A)
-- [垃圾领导把我的功劳全抢走了！](https://mp.weixin.qq.com/s/gknm-6k1zLY-1Cey12whSw)
-- [用随机梯度下降法来优化自己的人生！！](https://mp.weixin.qq.com/s/Rc2_rR9rJ7tx_LO_q80zuQ)
-- [美团大佬分享：写给工程师的几条精进建议](https://mp.weixin.qq.com/s/gJby-f46_hv5Wjk3Eu5iaw)
-- [我，生物专业出身，自学转到了互联网](https://mp.weixin.qq.com/s/yhY1VfuCEB0DSWYtBzMKDA)
-- [坦白贴：十一在家我都逛哪些技术网站？](https://mp.weixin.qq.com/s/jboZwMaxfs1mOdf5mxPbeA)
-
-## 读研深造
-
-- [整整5年了！老羊斗胆聊一聊和自己导师的相处](https://mp.weixin.qq.com/s/6h8GIqCdqs0pkNuwR-M7Yg)
-- [学弟跨考浙大计算机的掏心窝子分享！](https://mp.weixin.qq.com/s/cgtbhh7lrhsHXquFz7d1Ow)
-- [既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
-- [一篇所有研究生都该读的好文：阳光温热，科研静好！](https://mp.weixin.qq.com/s/kbRlOB9hdU4j54VGF1s8oQ)
-- [如何优雅地向老师表达我这周任务没啥进展？](https://mp.weixin.qq.com/s/gbIGNXIkOpw8tQ5aIoJMtw)
-- [好不容易读个研，遇到放羊的导师怎么办？](https://mp.weixin.qq.com/s/OkxMe3Eaywx-KF9tBmjf-Q)
-- [研究生/专升本都扩招，我们没有理由放弃](https://mp.weixin.qq.com/s/MvZFLDHItPR7InzrtYRL5w)
-- [本科、硕士、博士，究竟有何区别？](https://mp.weixin.qq.com/s/Oa-1F1h6FmgodjG__2AZ_Q)
-- [一位博士的自白：毕业时想大哭一场](https://mp.weixin.qq.com/s/h6o5XpA8-M97MWILhdrO5A)
-- [一个农村博士的独白：全家为什么只有我读到了博士](https://mp.weixin.qq.com/s/EhWWnpLuhLM3_lX8Ja3qMQ)
-- [考研上岸哈工大的经历分享](https://mp.weixin.qq.com/s/hDR4FKDA4Hkc_yvXgyvI8A)
-
-## 闲聊唠嗑
-
-- [深夜闲聊：还敢无脑梭哈计算机么？](https://mp.weixin.qq.com/s/AAMmLDeZSLPkKzzGrkHd9g)
-- [那些学计算机的女生后来都怎么样了？](https://mp.weixin.qq.com/s/xweKJoGKG5NUssZioROQZw)
-- [程序员缺乏经验的7种表现](https://mp.weixin.qq.com/s/UT1muuGblZ6hFvLViti6OQ)
-- [程序员的酒后真言，都不容易](https://mp.weixin.qq.com/s/oKFHpaItmlB57gCE0sbzig)
-- [自学技术时，看书还是看视频？](https://mp.weixin.qq.com/s/1AabNVmQTyhlEnaghoyGOg)
-- [学校出身一般，该怎么办](https://mp.weixin.qq.com/s/7oOoThASit_ipIgyYzuMfA)
-- [如何写出让同事无法维护的代码？](https://mp.weixin.qq.com/s/8zP5DX79-aEuFF17MYnHtg)
-- [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
-- [拼多多和电网offer，要你会选哪个？](https://mp.weixin.qq.com/s/bWcoi4oEIq6_F_NSkO7lOA)
-- [C语言，50岁了！永远滴神！](https://mp.weixin.qq.com/s/Bhj0hj43jW7Ua78QENeC1g)
-
-
-## 读书写作
-
-- [羊哥今年的闲读书单！](https://mp.weixin.qq.com/s/rk0eOgioOj7yw3EjfTt5zQ)
-- [大公开：我技术文章里的动图是怎么做的？](https://mp.weixin.qq.com/s/40nmWT6DtPqcqblQuwv9Tw)
-- [坚持写博客三年了，分享几个私藏小工具](https://mp.weixin.qq.com/s/T-b7GfBoMGRuOqtp3T_HaA)
-- [白瞟七牛云作为个人博客免费图床](https://mp.weixin.qq.com/s/UU4Ha5bym4VhEDAlMZwVFQ)
----
-- [在线画图工具ProcessOn](https://www.processon.com/)
-- [在线画图工具Draw.io](https://app.diagrams.net/)
-- [在线思维导图工具MindLine](http://www.mindline.cn/webapp)
-- [在线字数统计工具](https://www.eteste.com/)
-- [mdnice markdown排版工具](https://mdnice.com/)
-- [md2all markdown排版工具](http://md.aclickall.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
-
-
-## 摸鱼时间
-
-咳咳。。。
-
-  - [0x00000001](https://www.bilibili.com/)
-  - [0x00000002](https://mo.fish/)
-  - [0x00000003](http://www.mazegenerator.net/)
-  - [0x00000004](https://duomoyu.com/)
-  - [0x00000005](http://slither.io/)
-  - [0x00000006](https://www.anyknew.com/#/)
-  - [0x00000007](http://gogoame.sumbioun.com/)
-  - [0x00000008](https://flipanim.com/)
-  - [0x00000009](https://zty.pe/)
-  - [0x0000000a](https://aidn.jp/mikutap/)
-  - [0x0000000b](http://zoomquilt.org/)
-  - [0x0000000c](https://lab.bangbang93.com/wsyw)
-  - [0x0000000d](https://lmbtfy.cn/)
-  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
-  - [0x0000000f](https://zzkia.noddl.me/)
-  - [0x00000010](https://www.dgtle.com/)
-  - [0x00000011](https://sspai.com/)
-
----
-# **联系作者**
----
-
-## 关于作者
-
-- 普通开发者，热情的学习者，狂热的数码迷
-- 90后，硕士毕业于华中科技大学电信专业，现从事IT类工作
-- 目前在南京栖息，天天被业务折腾得死去活来的同时依然保有对各项技术热忱的追求
-- 参加工作以后越来越理解交流与分享的重要性，我在不停地汲取大家宝贵经验的同时，也想回馈自己的所学所感给读者
-- 本站是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。网站内容会保持持续更新，欢迎收藏品鉴
-
----
-## 心路历程
-
-- [2021-10-14：我坚持两年了！](https://mp.weixin.qq.com/s/GPVeZtMokBI_LwmcM5XEtA)
-- [2021-09-12：羊哥今年的书单！](https://mp.weixin.qq.com/s/rk0eOgioOj7yw3EjfTt5zQ)
-- [2021-08-29：读了7年通信最后还是转了码，羊哥你后悔吗？](https://mp.weixin.qq.com/s/gU5jhu9wcZHTgGuawpKE8g)
-- [2021-08-05：羊哥竟然翻出了当年的大学成绩单。。](https://mp.weixin.qq.com/s/yhOep3tFNpJ5-4YkDigVxw)
-- [2021-07-16：羊嫂偷偷抹了两个小时眼泪](https://mp.weixin.qq.com/s/OQ5dNnxFKXVt7rgRxxygyw)
-- [2021-06-23：还敢无脑梭哈计算机么？](https://mp.weixin.qq.com/s/AAMmLDeZSLPkKzzGrkHd9g)
-- [2021-06-17：羊家坝村首席高考志愿填报推荐官](https://mp.weixin.qq.com/s/oqopuK0mMP-FAxiDvPUeCg)
-- [2021-06-13：羊哥接到了百万大V的邀请！起飞了~](https://mp.weixin.qq.com/s/8CxIPP2Amb3HXPY7hKUWGA)
-- [2021-06-06：整整5年了！老羊斗胆聊一聊和自己导师的相处](https://mp.weixin.qq.com/s/6h8GIqCdqs0pkNuwR-M7Yg)
-- [2021-05-27：拜访了这位小哥的GitHub后，羊哥失眠了](https://mp.weixin.qq.com/s/-Xp84QH5zQvvHaGWTJF9MA)
-- [2021-05-21：521坦白帖：当年念书时是怎么写情书的？](https://mp.weixin.qq.com/s/9DxslnAKgBHG85iZ8m6yYQ)
-- [2021-05-09：卧槽，人品爆了 ...](https://mp.weixin.qq.com/s/q-fHPCz9YQzVDC4wC9P4YA)
-- [2021-05-05：生产队的驴都不敢这么过五一](https://mp.weixin.qq.com/s/sYPGrLBhojhqIkVAKXLZNg)
-- [2021-04-24：日子浑浑噩噩地过，这可能是我最开心的一周了](https://mp.weixin.qq.com/s/EfYQgGxOYUb6mLs4EBuCCw)
-- [2021-03-28：痴声痴色痴梦痴情几辈痴人](https://mp.weixin.qq.com/s/VqVFhueNtm9jN1GrW4Ebsg)
-- [2021-03-21：我和羊嫂的3平米小书房](https://mp.weixin.qq.com/s/KTD15ZQ4xdTJXt-MVWa7zg)
-- [2021-02-28：哎，我也想有一个这样的老婆啊](https://mp.weixin.qq.com/s/-Odh3JZNzJzGLGLiCf_uzw)
-- [2021-01-14：熬夜多疯狂，体检报告就有多刺激！我怂了](https://mp.weixin.qq.com/s/B9iPfm4DVAwHR1e-wWNPOg)
-- [2021-01-10：去芜湖、看房子、拿体检报告，魔幻的2021开端~](https://mp.weixin.qq.com/s/v1TiNA7XJeMp92u-YLLxjg)
-- [2020-12-13：今天的南京，很冷很冷](https://mp.weixin.qq.com/s/lfm_y0WskLrQJc55JYdu2Q)
-- [2020-10-22：和字节跳动面试官学长聊了聊人生~](https://mp.weixin.qq.com/s/WDatlUIMnADEASTzBTQZQw)
-- [2020-10-15：愿那只在天堂的猫，能够被温柔相待](https://mp.weixin.qq.com/s/ukyCJTXeD9ZoSaNK-WV0Ig)
-- [2020-10-06：老家被拆了，我的少年记忆也无处安放了](https://mp.weixin.qq.com/s/9hw1FTUGZANgcecCFUDovQ)
-- [2020-09-06：没有什么事是一顿撸串解决不了的~](https://mp.weixin.qq.com/s/QHvFgYQLvTrwAsxdWe_eAQ)
-- [2020-08-08：实不相瞒，我就是鹤岗的女婿~](https://mp.weixin.qq.com/s/kXjD-lIZpVjSroKkGHA7SQ)
-- [2020-07-18：最近厚着脸皮联系了不少同学](https://mp.weixin.qq.com/s/FlnZuzmZ9eNK1ahkvC98CA)
-- [2020-07-03：自学党/野生猿，项目经验上哪搞？](https://mp.weixin.qq.com/s/-mFZnE8-DNG6XVM-t589-Q)
-- [2020-06-21：既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
-- [2020-06-14：我的毕业季，没有一点点仪式感](https://mp.weixin.qq.com/s/0iSzqJBj7YHkijGxbFUqCQ)
-- [2020-05-08：最近状态不咋好...](https://mp.weixin.qq.com/s/C9HuUYis2zu6ThJAjXRqpA)
-- [2020-05-01：二线城市的程序员活得好吗？](https://mp.weixin.qq.com/s/gOo8ztVLdXp3m_rvBozQpQ)
-- [2020-04-21：自学编程的八大误区！克服它！](https://mp.weixin.qq.com/s/r_vm7lA2Ul_ZFhkx60wplg)
-- [2020-04-08：我的本科回忆录：从迷茫自卑到保送华科](https://mp.weixin.qq.com/s/t9F6Z-DrybWLUxVrPTRPJw)
-- [2020-03-15：到底要不要考研？](https://mp.weixin.qq.com/s/pwInIR-h1gkPXGuu4u1aWw)
-- [2020-02-23：实不相瞒，在家远程办公15天，我有点自闭](https://mp.weixin.qq.com/s/gJBlu5gXL5vqYWG6ggisRw)
-- [2020-02-16：昨夜，我梦回武汉 . . .](https://mp.weixin.qq.com/s/lfGqTBuyRSiA9NL-8Na-xg)
-- [2020-02-02：转行的路，走起来其实有点累...](https://mp.weixin.qq.com/s/FPreCde-JHl2D6HZDGK7qg)
-- [2020-01-23：来B站一年，我活成了人的模样！](https://mp.weixin.qq.com/s/-RWgqMi2iKFUQGWbgyyo3w)
-- [2019-10-28：快30岁的我，终于赚到人生第一个10W！](https://mp.weixin.qq.com/s/i-EFuFb7yPpoOidme18EWA)
-- [2019-09-08：华科研究生学长想对导师们说的话！](https://mp.weixin.qq.com/s/TO9-kBWKFs2sV1z0Hw3qWw)
-
----
-## 微信联系
-
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
-    </a>
-</p>
-
-
----
-# **本站开源地址**
----
-
-## GitHub开源地址
-
-- [https://github.com/rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) **欢迎Star支持**
-
-## Gitee开源地址
-
-- [https://gitee.com/rd2coding/Road2Coding](https://gitee.com/rd2coding/Road2Coding) **欢迎Star支持**
-
-
----
-# 持续更新中...
-
-网站内容会持续保持更新，欢迎收藏品鉴！
+# 彻底搞懂心电图
+
+心电图在临床工作当中是很重要的一项辅助检查，掌握心电图的是临床医生的基本能力。
+
+由于老师们的能力有限，靠他们来学懂心电图是指望不上了，所以我决定自己来写这个系列的文章。通过写作来思考知识点之间的关系。坚持一段时间，我想我一定会对心电图有一个更加全面、深刻的认识。
+
+受随想大神的启发，我决定从**WHAT HOW WHY**三个方面来写此文章。
+
+### 什么是心电图
+
+心电图（electrocardiogram，ECG）是利用心电图机从体表记录心脏每一心动周期所产生电活动变化的曲线图形。
+
+
+### 正常的心电图是什么样的
+![](https://gitee.com/fueryuanyi/picgo/raw/master/normal%20ECG.png)
+
+### 心电图的产生原理是什么
+
+心脏机械收缩之前，先产生电激动，心房和心室的电激动可经人体组织传到体表。心电图机可将这些电激动记录下来，反映心脏的机械收缩情况。
+组织是由细胞构成的，心电图机记录的是整个心脏的电激动，心电图反映的是整个心脏的机械收缩情况。所以搞清楚心电图的产生原理之前首先应当明确的是单个心肌细胞除极与复极过程。
+#### 单个心肌细胞除极与复极过程
+
+![image_1](https://gitee.com/fueryuanyi/picgo/raw/master/The%20depolarization%20and%20complex%20processes%20of%20individual%20cardiomyocytes%20and%20the%20resulting%20electrocouple%20changes.png)
+从上图可以看出单个心肌细胞除极与复极方向相同，但电流方向不同（若可外接带有指针的那种电流表，则指针偏转方向相反），这也是其除极与复极波形方向相反的原因。这里可简记为“除极与复极方向相同时，除极与复极波形方向相反；除极与复极波形方向相同时，除极与复极方向相反”。
+
+![image-20211030164108371](https://gitee.com/fueryuanyi/picgo/raw/master/Individual%20cardiomyocytes%20detect%20the%20relationship%20between%20the%20orientation%20of%20electrodes%20and%20the%20direction%20of%20depolarization%20and%20complex%20waveforms.png)
+
+上图右边为单个心肌细胞除极波形，左边为其复极波形。
+
+明确了单个心肌细胞除极与复极过程之后，再来看心脏与单个心肌细胞在除极与复极过程的区别。
+#### 心脏与单个心肌细胞在除极与复极过程的区别
+
+在正常人的心电图中，记录到的复极波方向常与除极波主波方向一致，与单个心肌细胞不同。这是因为正常人心室的除极从心内膜向心外膜，而复极则从心外膜开始，向心内膜方向推进。
+
+在心电图上，我们可以看到，不同波段的振幅是不同的，这是因为不同时空的心电强度不同。那么影响心电强度的因素有哪些呢？
+#### 影响体表所采集到的心脏电位强度的因素
+由体表所采集到的心脏电位强度与下列因素有关：
+-   与心肌细胞数量（心肌厚度）呈正比关系
+-   与探查电极位置和心肌细胞之间的距离呈反比关系
+-   与探查电极的方位和心肌除极的方向所构成的角度有关，夹角愈大，心电位在导联上的投影愈小，电位愈弱
+    ![image-20211030172045265](https://gitee.com/fueryuanyi/picgo/raw/master/The%20relationship%20between%20the%20electrode%20potential%20and%20waveform%20and%20the%20direction%20of%20the%20heart%20muscle%20depolarization%20is%20detected.png)
+#### 心电图反映的是心电综合向量
+心脏的电激动过程中产生许多心电向量。由于心脏的解剖结构及其电活动相当错综复杂，致使诸心电向量间的关系亦较复杂，然而一般均按下列原理合成为“心电综合向量”（resultant vector）：同一轴的两个心电向量的方向相同者，其幅度相加;方向相反者则相减。两个心电向量的方向构成一定角度者，则可应用"合力"原理将两者按其角度及幅度构成一个平行四边形，而取其对角线为综合向量。
+![image-20211030172208652](https://gitee.com/fueryuanyi/picgo/raw/master/The%20principle%20of%20the%20formation%20of%20a%20comprehensive%20vector.png)
+可以认为，由体表所采集到的心电变化，乃是全部参与电活动心肌细胞的电位变化按上述原理所综合的结果。
+### 心电图是由哪些波段组成的
+
+![image-20211030204920933](https://gitee.com/fueryuanyi/picgo/raw/master/Relationship%20between%20the%20action%20potential%20of%20various%20parts%20of%20the%20heart%20and%20the%20bands%20of%20the%20electrocardiogram.png)
+#### P波 
+最早出现，幅度较小，反映心房的除极过程    
+#### PR 段
+实为 PQ段，传统称为 PR段，反映心房复极过程及房室结、希氏束、束支的电活动  
+#### PR间期
+由P波与 PR段组成，反映自心房开始除极至心室开始除极的时间    
+#### QRS波群
+幅度最大，反映心室除极的全过程    
+#### ST段和T波
+除极完毕后，由心室的缓慢和快速复极过程分别形成    
+#### QT间期
+为心室开始除极至心室复极完毕全过程的时间
+### 心电图QRS波群的命名规则是什么
+QRS波群因检测电极的位置不同而呈多种形态，已统一命名如下：
+-   首先出现的位于参考水平线以上的正向波称为R波
+-   R波之前的负向波称为Q波
+-   S波是R波之后第一个负向波
+-   R'波是继S波之后的正向波
+-   R'波后再出现负向波称为S'波
+-   如果 QRS波只有负向波，则称为QS波
+-   至于采用Q或q、R或r、S或s表示，应根据其幅度大小而定
+    ![image-20211030202824525](https://gitee.com/fueryuanyi/picgo/raw/master/QRS%20wave%20cluster%20naming%20diagram.png)
+	
+	
+### 心室肌除极顺序是什么
+正常心室除极始于室间隔中部，自左向右方向除极；随后左右心室游离壁从心内膜朝心外膜方向除极；左心室基底部与右心室肺动脉圆锥部是心室最后除极部位。
+### 什么是心电图导联体系
+在人体不同部位放置电极，并通过导联线与心电图机电流计的正负极相连，这种记录心电图的电路连接方法称为**心电图导联**。
+电极位置和连接方法不同，可组成不同的导联。在长期临床心电图实践中，已形成了一个由 Einthoven 创设而目前广泛采纳的国际通用导联体系（lead system），称为**常规12导联体系**。
+常规12导联体系包括肢体导联和胸导联两部分。
+#### 肢体导联
+包括**标准肢体导联**Ⅰ、Ⅱ、Ⅲ及**加压肢体导联** aVR、aVL、aVF。
+肢体导联的电极主要放置于右臂（R）左臂（L）左腿（F），连接此三点即成为所谓**Einthoven 三角**。
+在每一个标准导联正负极间均可画出一假想的直线，称为**导联轴**。
+为便于表明6个导联轴之间的方向关系，将Ⅰ、Ⅱ、Ⅲ导联的导联轴平行移动，使之与 aVR、aVL、aVF的导联轴一并通过坐标图的轴中心点，便构成**额面六轴系统**。
+![image-20211030213152806](https://gitee.com/fueryuanyi/picgo/raw/master/%20The%20guide%20shaft%20of%20the%20limb%20guide.png)
+> 此坐标系统采用 ±180°的角度标志。
+> 以左侧为0°，顺钟向的角度为正，逆钟向者为负。
+> 每个导联轴从中心点被分为正负两半，每个相邻导联间的夹角为30°。
+> 此对测定心脏额面心电轴颇有帮助。
+
+肢体各导联的电极位置和正负极连接方式见下图
+![image_2](https://gitee.com/fueryuanyi/picgo/raw/master/%20The%20position%20of%20the%20electrodes%20and%20the%20way%20the%20positive%20and%20negative%20poles%20are%20connected%20by%20each%20lead%20of%20the%20limb.png)
+标准肢体导联可简记为“左右左右左左，手掰不过脚”
+加压肢体导联根据导联名称即可确定具体连接方式
+#### 胸导联
+包括V1~V6导联。
+##### 胸导联检测电极连接方式
+检测之正电极应安放于胸壁规定的部位，另将肢体导联3个电极分别通过5K电阻与负极连接构成中心电端（central terminal）。
+![image_3](https://gitee.com/fueryuanyi/picgo/raw/master/How%20the%20chest-guided%20electrodes%20are%20connected.png)
+##### 胸导联检测电极安放位置
+导联检测电极具体安放的位置为：
+-   V1导联位于胸骨右缘第4肋间
+-   V2导联位于胸骨左缘第 4 肋间
+-   V3导联位于V2与V4两点连线的中点
+-   V4导联位于左锁骨中线与第5肋间相交处
+-   V5导联位于左腋前线与V4导联同一水平处
+-   V6导联位于左腋中线与V4同一水平处
+![image_4](https://gitee.com/fueryuanyi/picgo/raw/master/The%20position%20of%20the%20chest%20guide%20detection%20electrode%20(a)%20and%20the%20relationship%20between%20this%20position%20and%20the%20ventricle%20wall%20site%20(b).png)
+临床上诊断后壁心肌梗死还常选用V7~V9导联：
+-   V7导联位于左腋后线V4水平处
+-   V8导联位于左肩脾骨线V4导联水平处
+-   V9导联位于左脊旁线V4导联水平处
+-   小儿心电图或诊断右心病变（例如右心室心肌梗死）有时需要选用V3R~V6R 导联，电极放置右胸部与V3~V6导联对称处。
+### 心电图的测量包括哪几个方面
+心电图多描记在特殊的记录纸上。
+![image_5](https://gitee.com/fueryuanyi/picgo/raw/master/Measurements%20of%20the%20various%20bands%20of%20the%20electrocardiogram.png)
+心电图记录纸由纵线和横线划分成各为1mm²的小方格。
+当走纸速度为25mm/s时，每两条纵线间（1mm）表示0.04s（即 40毫秒）；当标准电压 1mV=10mm 时，两条横线间（1mm）表示0.1mV。
+#### 心率的测量
+测量心率时
+-   只需测量一个RR（或 PP）间期的秒数，然后被60除即可求出。例如 RR 间期为0.8秒，则心率为60/0.8=75次/分。
+-   还可采用查表法或使用专门的心率尺直接读出相应的心率数。
+-   心律明显不齐时，一般采取数个心动周期的平均值来进行测算。
+
+
+#### 各波段振幅的测量
+##### 水平方向
+-   P波振幅测量的参考水平应以**P波起始前的水平线**为准。
+-   测量QRS波群、J点、ST段、T波和 u波振幅，统一采用**QRS波起始部水平线**作为参考水平。
+-   如果 QRS起始部为一斜段（例如受心房复极波影响，存在预激波等情况），应以**QRS波起点**作为测量参考点。
+##### 垂直方向
+-   测量正向波形的高度时，应以参考水平线上缘垂直地测量到波的顶端；测量负向波形的深度时，应以参考水平线下缘垂直地测量到波的底端。
+#### 各波段时间的测量
+##### 12导联同步心电图仪测量个波段时间的方法
+-   测量P 波和 QRS波时间，应分别从12导联同步记录中最早的 P波起点测量至最晚的 P波终点以及从最早 QRS波起点测量至最晚的 QRS波终点。
+-   PR 间期应从 12导联同步心电图中最早的P波起点测量至最早的 QRS波起点。
+-   QT间期应是12导联同步心电图中最早的 QRS 波起点至最晚的T波终点的间距。
+##### 单导联心电图仪测量个波段时间的方法
+-   P波及QRS波时间应选择12个导联中最宽的P波及QRS波进行测量。    
+-   PR 间期应选择12个导联中 P波宽大且有Q波的导联进行测量。    
+-   QT间期测量应取12个导联中最长的 QT间期。
+一般规定，测量各波时间应自波形起点的内缘测至波形终点的内缘。
+#### 平均心电轴的测量
+##### 什么是平均心电轴
+心电轴通常指的是**平均 QRS心电轴（mean QRS axis）**，它是心室除极过程中全部瞬间向量的综合（平均QRS向量），借以说明心室在除极过程这一总时间内的平均电势方向和强度。它是空间性的，但心电图学中通常所指的是它投影在前额面 上的心电轴。
+> 可用任何两个肢体导联的 ORS波群的振幅或面积计算出心电轴。
+> 一般采用心电轴与Ⅰ导联正 （左）侧段之间的角度来表示平均心电轴的偏移方向。
+> 除测定QRS波群电轴外，还可用同样方法测定P波和T波电轴。
+##### 心电轴的测量方法有哪些
+需要注意的是，不同方法测定的心电轴值不完全相同。
+###### 目测
+最简单的方法是目测Ⅰ和Ⅲ导联 QRS波群的主波方向，估测电轴是否发生偏移：
+-   若Ⅰ和Ⅲ导联的 QRS主波均为正向波，可推断电轴不偏
+-   若Ⅰ导联出现较深的负向波，Ⅲ导联主波为正向波，则属电轴右偏
+-   若Ⅲ导联出现较深的负向波，Ⅰ导联主波为正向波，则属电轴左偏
+![image-20211101143313835](https://gitee.com/fueryuanyi/picgo/raw/master/Average%20QRS%20electrocardiogram%20simple%20visualization.png)
+###### 精确测量
+* 可采用分别测算Ⅰ和Ⅲ导联的 QRS波群振幅的代数和，然后将这两个数值分别在I导联及Ⅲ导联上画出垂直线，求得两垂直线的交叉点。电偶中心0点与该交叉点相连即为心电轴，该轴与Ⅰ导联轴正侧的夹角即为心电轴的角度。
+![image-20211101145300623](https://gitee.com/fueryuanyi/picgo/raw/master/Normal%20electrocardiogram%20and%20its%20offset.png)
+* 另外，也可将Ⅰ和Ⅲ导联 QRS波群的振幅代数和值通过查表直接求得心电轴。
+* 近年来，有学者建议采用Ⅰ和aVF 两个互相垂直的导联测定心电轴。
+##### 测量心电轴有什么临床意义
+###### 可以通过[心电轴的偏转](obsidian://open?vault=%E5%8C%BB%E5%AD%A6&file=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%B7%A6%E5%89%8D%E3%80%81%E5%B7%A6%E5%90%8E%E6%9D%9F%E6%94%AF%E5%9C%A8%E5%BF%83%E7%94%B5%E5%90%91%E9%87%8F%E6%96%B9%E9%9D%A2%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%9F)来辅助诊断。
+-   左心室肥厚、左前分支阻滞等可使心电轴左偏。
+-   右心室肥厚、左后分支阻滞等可使心电轴右偏。
+-   不确定电轴可以发生在正常人（正常变异），亦可见于某些病理情况，如肺心病、冠心病、高血压等。
+> 正常心电轴的范围为-30°~+90°之间。
+> 电轴位于-30°~-90°范围为心电轴左偏。
+> 位于+90°~+180°范围为心电轴右偏。
+> 位于-90°~-180°范围，传统上称为电轴极度右偏，近年主张定义为"不确定电轴"（indeterminate axis）。
+心电轴的偏移，一般受心脏在胸腔内的解剖位置、两侧心室的质量比例、心室内传导系统的功能、激动在室内传导状态以及年龄、体型等因素影响。
+###### 可以通过心电轴转位方向来辅助诊断。
+自心尖部朝心底部方向观察，设想心脏可循其本身长轴作顺钟向或逆钟向转位。
+-   顺钟向转位可见于右心室肥厚。
+-   逆钟向转位可见于左心室肥厚。
+> 正常时V3或V4导联 R/S大致相等，为左、右心室过渡区波形。
+> 顺钟向转位（clockwise rotation）时，正常在V3或V4导联出现的波形转向左心室方向，即出现在V5、V6导联上。
+> 逆钟向转位（counterclockwise rotation）时，正常V3或V4导联出现的波形转向右心室方向，即出现在V1、V2导联上。
+![image-20211101153637165](https://gitee.com/fueryuanyi/picgo/raw/master/Electrocardiogram%20graphical%20transposing%20judgment%20method%20diagram.png)
+
+但需要指出，心电图上的这种转位图形在正常人亦常可见到，提示这种图形改变有时为心电位的变化，并非都是心脏在解剖上转位的结果。
+
+
+### 正常心电图各波段都有哪些波形特点&心电图各波段的正常值是多少
+#### P波
+代表心房肌除极的电位变化。
+-   形态
+    > P波的形态在大部分导联上一般呈钝圆形，有时可能有轻度切迹。
+    > 由于心脏激动起源于窦房结，心房除极的综合向量指向左、前、下，所以P波方向在Ⅰ、Ⅱ、aVF、V4~V6导联向上，aVR导联向下，其余导联呈双向、倒置或低平均可。
+-   时间
+    正常人P波时间一般小于0.12秒。
+-   振幅
+    P波振幅在肢体导联一般小于0.25mV，胸导联一般小于0.2mV
+
+#### PR间期
+从P波的起点至QRS波群的起点，代表心房开始除极至心室开始除极的时间。
+-   心率在正常范围时，PR间期为0.12~0.20秒。
+-   在幼儿及心动过速的情况下，PR 间期相应缩短。
+-   在老年人及心动过缓的情况下，PR 间期可略延长，但一般不超过0.22秒。
+#### QRS波群
+代表心室肌除极的电位变化。
+-   时间
+    正常人QRS时间一般不超过0.11秒，多数在0.06~0.10秒。
+-   形态和振幅
+    在胸导联
+    > 正常人V1、V2导联多呈 rS型，V1的 R波一般不超过1.0mV。
+    > V5、V6导联 QRS波群可呈qR、qRs、Rs或R型，且R波一般不超过2.5mV。
+    > 胸导联的R波自V1 至V5逐渐增高，V6的R波一般低于V5的R波。
+    > 通常V2的S波较深，V2至V6导联的S波逐渐变浅。
+    > V1的R/S小于1，V5的 R/S大于1。
+    > 在V3或V4导联，R波和S波的振幅大体相等。
+    
+    在肢体导联
+    > Ⅰ、Ⅱ导联的 QRS波群主波一般向上，Ⅲ导联的QRS波群主波方向多变。
+    > aVR导联的QRS波群主波向下，可呈 QS、rS、rSr'或Qr型。
+    > aVL与aVF导联的 QRS波群可呈qR、Rs或R型，也可呈rS型。
+    > 正常人 aVR导联的R波一般小于0.5mV， Ⅰ导联的R波小于1.5mV，aVL导联的R波小于1.2mV，aVF导联的R波小于2.0mV。
+    
+    6个肢体导联的QRS 波群振幅（正向波与负向波振幅的绝对值相加）一般不应都小于0.5mV，6个胸导联的 QRS波群振幅（正向波与负向波振幅的绝对值相加）一般不应都小于0.8mV，否则称为**低电压**。    
+-   R 峰时间（R peak time）
+    过去称为类本位曲折时间或室壁激动时间，指 QRS起点至 R 波顶端垂直线的间距。
+    > 如有R'波，则应测量至 R'峰；如R峰呈切迹，应测量至切迹第二峰。
+    > 各种波形的R峰时间测量方法见图
+    ![image-20211101164842253](https://gitee.com/fueryuanyi/picgo/raw/master/R%20peak%20time%20measurement%20methods%20for%20various%20waveforms.png)
+    > 正常R峰时间在V1、V2导联一般不超过0.04秒，在V5、V6导联一般不超过0.05秒。
+-   Q波
+    > 正常人的Q波时限一般不超过0.03 秒（除Ⅲ和 aVR导联外，我推测可能与心室除极顺序有关）。
+    > Ⅲ导联Q波的宽度可达0.04秒。
+    > aVR导联出现较宽的Q波或呈QS波均属正常。
+    > 正常情况下，Q波深度不超过同导联R波振幅的1/4。
+    > 正常人V1、V2导联不应出现Q波，但偶尔可呈QS波。
+
+#### J点
+QRS波群的终末与 ST段起始之交接点称为J点。
+-   J点大多在等电位线上，通常随 ST 段的偏移而发生移位。    
+-   由于心动过速等原因，使心室除极与心房复极并存，导致心房复极波（Ta波）重叠于ORS波群的后段，可发生J点下移。
+#### ST段
+自QRS波群的终点至T波起点间的线段，代表心室缓慢复极过程。
+* 正常的 ST段大多为一等电位线，有时亦可有轻微的偏移，但在任一导联，ST 段下移一般不超过0.05mV。
+* 成人ST段抬高在V2和V3导联较明显，可达0.2mV或更高，且男性抬高程度一般大于女性。
+* 在V4~V6导联及肢体导联，ST段抬高的程度很少超过0.1mV。
+部分正常人（多见于年轻人和男性），可因局部心外膜区心肌细胞提前复极导致某些导联J点上移、ST段呈现凹面向上抬高（常出现在V2~V5导联及Ⅱ、Ⅲ、aVF导联），通常称之为早期复极。
+![image-20211103164519258](https://gitee.com/fueryuanyi/picgo/raw/master/Early%20complex%20poles.png)
+绝大多数的早期复极是良性的，属正常心电图变异。
+有很少数的早期复极与发生室性心动过速或心室颤动有关，此类早期复极称为早期复极综合征（early repolarization syndrome，ERS）。
+#### T波
+代表心室快速复极时的电位变化。
+* 形态
+    > 正常T波形态两肢不对称，前半部斜度较平缓，而后半部斜度较陡。
+    > T波的方向大多与QRS主波的方向一致。
+    > T波方向在Ⅰ、Ⅱ、V4~V6导联向上，aVR导联向下，Ⅲ、aVL、aVF、V1~V3导联可以向上、双向或向下。
+    > 若V1的T波方向向上，则V2~V6导联就不应再向下。
+* 振幅
+    > 除Ⅲ、aVL、aVF、V1~V3导联外，其他导联T波振幅一般不应低于同导联R波的1/10。
+    > T波在胸导联有时可高达1.2~1.5mV尚属正常。
+#### QT间期
+指QRS波群的起点至 T波终点的间距，代表心室肌除极和复极全过程所需的时间。
+-   QT间期长短与心率的快慢密切相关，心率越快，QT间期越短，反之则越长。  
+-   心率在60~100 次/分时，QT间期的正常范围为0.32~0.44秒。
+-   由于QT间期受心率的影响很大，所以常使用校正的QT间期（QTc），通常采用Bazett公式计算：QTc=QT/√(R-R。)  
+-   **QTc**就是 RR间期为1秒（心率60次/分）时的 QT间期。
+-   传统的 QTc的正常上限值设定为0.44秒，超过此时限即认为QT间期延长。
+-   一般女性的 QT间期较男性略长。   
+-   近年推荐的 QT间期延长的标准为∶男性 QTc 间期≥0.45秒，女性≥0.46秒。
+-   QT间期另一个特点是不同导联之间的 QT间期存在一定的差异，正常人不同导联间的 QT 间期差异最大可达 50毫秒，以V2、V3导联QT间期最长。
+#### u波
+在T波之后0.02~0.04秒出现的振幅很低小的波称为u波。
+-   其产生机制至今仍未完全清楚，近年的研究认为，心室肌舒张的机械作用可能是形成u波的原因。
+-   正常 u波的形态为前半部斜度较陡，而后半部斜度较平缓，与T波恰好相反。
+-   u波方向大体与T波相一致。
+-   u波在胸导联较易见到，以V2~V3导联较明显。
+-   u波振幅的大小与心率快慢有关，心率增快时u波振幅降低或消失，心率减慢时u波振幅增高。
+-   u波明显增高常见于低血钾。
+-   u波倒置可见于高血压和冠心病。
+### 小儿心电图有什么特点
+为了正确评估小儿心电图，需充分认识其特点。
+小儿的生理发育过程迅速，其心电图变化也较大。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Children's%20electrocardiogram%20(9-month-old%20baby).png)
+总的趋势可概括为自起初的右心室占优势型转变为左心室占优势型的过程，其具体特点可归纳如下：
+#### 小儿心率
+ - 比成人快，至 10岁以后即可大致保持为成人的心率水平（60~100次/分）。
+ - 小儿的 PR 间期较成人为短，7岁以后趋于恒定（0.10~0.17秒），小儿的 OTc间期较成人略长。
+#### 小儿的P波
+时间较成人稍短（儿童<0.09秒），P波的电压于新生儿较高，以后则较成人稍低。
+#### 婴幼儿
+常呈右心室占优势的 QRS图形特征。
+#### 小儿T波 
+变异较大，于新生儿期，其肢体导联及右胸导联常出现T波低平、倒置。
+### 心房肥大在心电图上有哪些表现
+心房肥大多表现为心房的扩大而较少表现心房肌肥厚。
+心房扩大引起心房肌纤维增长变粗以及房间传导束牵拉和损伤，导致整个心房肌除极综合向量的振幅和方向发生变化。
+心电图上主要表现为P波振幅、除极时间及形态改变。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/An%20electrocardiogram%20of%20the%20atrium%20in%20addition%20to%20the%20polar%20order%20and%20atrial%20hypertrophy.png)
+#### 右心房肥大
+正常情况下右心房先除极，左心房后除极。
+当右心房肥大（right atrial enlargement）时，除极时间延长，往往与稍后除极的左心房时间重叠，故总的心房除极时间并未延长，心电图主要表现为心房除极波振幅增高：
+- P波尖而高耸，其振幅≥0.25mV，以Ⅱ、Ⅲ、aVF导联表现最为突出，又称"肺型P波"。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20right%20atrial%20is%20fat.png)
+- V1导联P波直立时，振幅≥0.15mV，如 P波呈双向时，其振幅的算术和≥0.20mV。
+- P波电轴右移超过75°。
+需要强调∶上述P波异常改变除见于右心房肥大外，心房内传导阻滞、各种原因引起的右心房负荷增加（例如肺栓塞）、心房梗死等亦可出现类似的心电图表现。
+#### 左心房肥大
+由于左心房最后除极，当左心房肥大（left atrial enlargement）时，心电图主要表现为心房除极时间延长：
+- P波增宽，其时限≥0.12秒，P波常呈双峰型，两峰间距≥0.04秒，以Ⅰ、Ⅱ、aVL导联明显，又称"二尖瓣型P波"。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20left%20atrial%20room%20is%20fat.png)
+- PR段缩短，P波时间与PR段时间之比 >1.6。
+- V1导联上P波常呈先正而后出现深宽的负向波。将V1导联负向P波的时间乘以负向P波振幅，称为P波终末电势（P-wave terminal force，Ptf）。左心房肥大时，Ptfv1（绝对值）≥0.04mm·s。
+需要强调∶上述P波异常改变并非左心房肥大所特有，心房内传导阻滞、各种原因引起的左心房负荷增加（例如左心室功能不全）、心房梗死等亦可出现类似的心电图表现。
+#### 双心房肥大
+双心房肥大（biatrial enlargement）的心电图表现为：
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Double%20atrial%20fat.png)
+-   P波增宽≥0.12秒，其振幅≥0.25mV。   
+-   V1导联P波高大双相，上下振幅均超过正常范围。
+####
+需要指出的是，上述所谓"肺型P波"及"二尖瓣型P波"，并非慢性肺源性心脏病及二尖瓣疾病所特有，故不能称为具有特异性的病因学诊断意义的心电图改变。
+
+### 心室肥厚在心电图上有哪些表现
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Left%20and%20right%20ventricular%20hypertrophy%20mechanism%20and%20electrocardiogram%20performance.png)
+- 心室肥厚是由于心室舒张期或/和收缩期负荷过重所致，是器质性心脏病的常见后果。
+- 当心室肥厚达到一定程度时可引起心电图发生变化。
+- 一般认为其心电的改变与下列因素有关：
+	1. 心肌纤维增粗、截面积增大，心肌除极产生的电压增高。
+	2. 心室壁的增厚及心肌细胞变性所致传导功能低下，均可使心室肌激动的时程延长。
+	3. 心室壁肥厚引起心室肌复极顺序发生改变。
+- 上述心电变化可以作为诊断心室肥厚及有关因素的重要依据。但心电图在诊断心室肥厚方面存在一定局限性，不能仅凭某一项指标而作出肯定或否定的结论，主要是因为
+	1. 来自左、右心室肌相反方向的心电向量进行综合时，有可能互相抵消而失去两者各自的心电图特征，以致难于作出肯定诊断
+	2. 除心室肥厚外，同样类型的心电图改变尚可由其他因素所引起。
+因此，作出心室肥厚诊断时。需结合临床资料以及其他的检查结果，通过综合分析，才能得出正确结论。
+#### 左心室肥厚
+- 正常左心室的位置位于心脏的左后方，且左心室壁明显厚于右心室，故正常时心室除极综合向量表现左心室占优势的特征。
+- 左心室肥厚（left ventricular hypertrophy）时，可使左心室优势的情况显得更为突出，引起面向左心室的导联（Ⅰ、aVL、V5和V6）其R 波振幅增加，而面向右心室的导联（V1和V2）则出现较深的S波。
+- **左心室肥厚时，心电图上可出现如下改变**：
+	1. ORS波群电压增高，常用的左心室肥厚电压标准如下：
+		- 胸导联：Rv5或Rv6>2.5mV；Rv5＋ Sv1>4.0mV（男性）或>3.5mV（女性）。
+		- 肢体导联：RⅠ>1.5mV；RaVL>1.2mV；RaVF>2.0mV；RⅠ+SⅢ>2.5mV。
+		- Cornell标准：RaVL+Sv3>2.8mV（男性）或2.0mV（女性）。
+	需要指出的是，每个电压标准诊断左心室肥厚的敏感性和特异性是不同的。
+	另外，ORS 波群电压还受到年龄、性别及体型差异等诸多因素的影响。
+	心电图电压标准诊断左心室肥厚的敏感性通常较低（<50%），而特异性较高（85%~90%）。
+	2. 可出现额面QRS心电轴左偏.
+	3. QRS波群时间延长到0.10~0.11秒。
+	4. 在R波为主的导联（如V5，V6导联）上，其ST段可呈下斜型压低达0.05mV以上，T波低平、双向或倒置。在以S波为主的导联（如V1导联）上则反而可见直立的T波。此类 ST-T改变多为继发性改变，亦可能同时伴有心肌缺血。
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20left%20ventricle%20is%20thick.png)
+- 在符合一项或几项ORS电压增高标准的基础上，结合其他阳性指标之一，一般支持左心室肥厚的诊断。
+- 符合条件越多，诊断的可靠性越大。
+- 如仅有 QRS电压增高，而无其他任何阳性指标者，诊断左心室肥厚应慎重。
+#### 右心室肥厚
+- 右心室壁厚度仅有左心室壁的1/3，只有当右心室壁的厚度达到相当程度时，才会使综合向量由左心室优势转向为右心室优势，并导致位于右心室面导联（V1、aVR）的R波增高，而位于左心室面导联（Ⅰ、aVL、V5）的S波变深。
+- **右心室肥厚可具有如下心电图表现**：
+	1. **V1**导联R/S≥1，呈R型或 Rs型，重度右心室肥厚可使V1导联呈qR 型（除外心肌梗死）；**V5**导联 R/S≤1或S波比正常加深；**aVR**导联以R波为主，R/q或 R/S≥1。
+	2. Rv1+Sv5>1.05mV（重症>1.2mV）；RaVR>0.5mV。
+	3. 心电轴右偏≥+90°（重症可>+110°）。
+	4. 常同时伴有右胸导联（V1、V2）ST段压低及T波倒置，属继发性 ST-T改变。
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20right%20ventricle%20is%20thick.png)
+	除了上述典型的右心室肥厚心电图表现外，临床上慢性肺源性心脏病的心电图特点为：
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/Chronic%20lung-borne%20heart%20disease.png)
+	> V1~V6导联呈 rS型（R/S<1），即所谓极度顺钟向转位。
+	> Ⅰ导联QRS低电压。
+	> 心电轴右偏。
+	> 常伴有P波电压增高。
+   *此类心电图表现是由于心脏在胸腔中的位置改变、肺体积增大及右心室肥厚等因素综合作用的结果。*
+- 诊断右心室肥厚，有时定性诊断（依据V1导联 QRS形态及电轴右偏等）比定量诊断更有价值。
+- 一般来说，阳性指标愈多，则诊断的可靠性越高。
+- 虽然心电图对诊断明显的右心室肥厚准确性较高，但敏感性较低。
+#### 双侧心室肥厚
+与诊断双心房肥大不同，双侧心室肥厚的心电图表现并不是简单地把左、右心室异常表现相加，心电图可出现下列情况：
+##### 大致正常心电图
+由于双侧心室电压同时增高，增加的除极向量方向相反互相抵消。
+##### 单侧心室肥厚心电图
+只表现出一侧心室肥厚，而另一侧心室肥厚的图形被掩盖。
+##### 双侧心室肥厚心电图
+既表现右心室肥厚的心电图特征（如V1导联 R波为主，电轴右偏等），又存在左心室肥厚的某些征象（如V5导联 R/S>1，R波振幅增高等）。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20two-sided%20ventricle%20is%20thick.png)
+
+
+### 心肌缺血与ST-T改变的关系是什么
+心肌缺血（myocardial ischemia）通常发生在冠状动脉粥样硬化基础上。
+当心肌某一部分缺血时，将影响到心室复极的正常进行，并可使缺血区相关导联发生 ST-T异常改变。
+心肌缺血的心电图改变类型取决于缺血的严重程度，持续时间和缺血发生部位。
+#### 心肌缺血的心电图类型
+##### 缺血型心电图改变
+- 正常情况下，心外膜处的动作电位时程较心内膜短，心外膜完成复极早于心内膜，因此心室肌复极过程可看作是从心外膜开始向心内膜方向推进。
+- 发生心肌缺血时，复极过程发生改变，心电图上出现T波变化。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Relationship%20between%20myocardial%20ischemia%20and%20T-wave%20changes.png)
+###### 若心内膜下心肌缺血
+- 心内膜下缺血心肌复极时间较正常时更加延迟，使原来存在的与心外膜复极向量相抗衡的心内膜复极向量减小或消失，致使T波向量增加，出现高大的T波。
+- 例如下壁心内膜下缺血，下壁导联Ⅱ、Ⅲ、aVF可出现高大直立的T波；前壁心内膜下缺血，胸导联可出现高耸直立的T波。
+###### 若心外膜下心肌缺血（包括透壁性心肌缺血）
+- 心外膜动作电位时程比正常时明显延长，从而引起心肌复极顺序的逆转，即心内膜开始先复极，膜外电位为正，而缺血的心外膜心肌尚未复极，膜外电位仍呈相对的负性，于是出现与正常方向相反的T波向量。
+- 此时面向缺血区的导联记录出倒置的T波。
+- 例如下壁心外膜下缺血，下壁导联Ⅱ、Ⅲ、aVF可出现倒置的T波；前壁心外膜下缺血，胸导联可出现T波倒置。
+##### 损伤型心电图改变
+心肌缺血除了可出现T波改变外，还可出现损伤型 ST 改变。
+损伤型 ST 段偏移可表现为 ST 段压低及 ST段抬高两种类型。
+心肌损伤（myocardial injury）时，ST向量从正常心肌指向损伤心肌。
+**心内膜下心肌损伤时**
+- ST向量背离心外膜面指向心内膜，使位于心外膜面的导联出现 ST段压低。
+
+**心外膜下心肌损伤时（[包括透壁性心肌缺血](obsidian://open?vault=%E5%8C%BB%E5%AD%A6&file=%E4%B8%B4%E5%BA%8A%E4%B8%8A%E5%8F%91%E7%94%9F%E9%80%8F%E5%A3%81%E6%80%A7%E5%BF%83%E8%82%8C%E7%BC%BA%E8%A1%80%E6%97%B6%EF%BC%8C%E4%B8%BA%E5%95%A5%E5%BF%83%E7%94%B5%E5%9B%BE%E5%BE%80%E5%BE%80%E8%A1%A8%E7%8E%B0%E4%B8%BA%E5%BF%83%E5%A4%96%E8%86%9C%E4%B8%8B%E7%BC%BA%E8%A1%80%EF%BC%88T%E6%B3%A2%E6%B7%B1%E5%80%92%E7%BD%AE%EF%BC%89%E6%88%96%E5%BF%83%E5%A4%96%E8%86%9C%E4%B8%8B%E6%8D%9F%E4%BC%A4%EF%BC%88ST%E6%AE%B5%E6%8A%AC%E9%AB%98%EF%BC%89%E7%B1%BB%E5%9E%8B%EF%BC%9F)）**
+- ST向量指向心外膜面导联，引起 ST段抬高。
+[发生损伤型 ST改变时，对侧部位的导联常可记录到相反的 ST改变。](obsidian://open?vault=%E5%8C%BB%E5%AD%A6&file=%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E5%BF%83%E7%94%B5%E5%9B%BE%2FWHY%E5%BF%83%E7%94%B5%E5%9B%BE%2F%E4%B8%BA%E5%95%A5%E5%8F%91%E7%94%9F%E6%8D%9F%E4%BC%A4%E5%9E%8B%20ST%E6%94%B9%E5%8F%98%E6%97%B6%EF%BC%8C%E5%AF%B9%E4%BE%A7%E9%83%A8%E4%BD%8D%E7%9A%84%E5%AF%BC%E8%81%94%E5%B8%B8%E5%8F%AF%E8%AE%B0%E5%BD%95%E5%88%B0%E7%9B%B8%E5%8F%8D%E7%9A%84%20ST%E6%94%B9%E5%8F%98%EF%BC%9F)
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Relationship%20between%20myocardial%20injury%20and%20ST%20segment%20offset.png)
+#### 它们有啥临床意义
+- 心肌缺血的心电图可仅仅表现为 ST段改变或者T波改变，也可同时出现 ST-T改变。
+- 临床上可发现约一半的冠心病患者未发作心绞痛时，心电图可以正常，而仅于心绞痛发作时记录到ST-T动态改变。
+- 约10%的冠心病患者在心肌缺血发作时心电图可以正常或仅有轻度 ST-T变化。
+- 典型的心肌缺血发作时，面向缺血部位的导联常显示缺血型 ST 段压低（水平型或下斜型下移≥0.1mV）和（或T波倒置）。
+- 有些冠心病患者心电图可呈持续性 ST改变（水平型或下斜型下移≥0.05mV）和（或）T波低平、负正双向和倒置，而于心绞痛发作时出现 ST-T改变加重或伪性改善。
+- 冠心病患者心电图上出现倒置深尖、双肢对称的T波（称之为冠状T波），反映心外膜下心肌缺血或有透壁性心肌缺血，这种 T波改变亦见干心肌梗死患者。
+- 变异型心绞痛（冠状动脉痉挛为主要因素）多引起暂时性 ST段抬高并常伴有高耸T波和对应导联的 ST 段下移，这是急性严重心肌缺血的表现，如 ST段呈持续的抬高，提示可能发生心肌梗死。
+#### 它们的鉴别诊断有哪些
+需要强调的是，心电图上 ST-T改变可以是各种原因引起的心肌复极异常的共同表现，在作出心肌缺血的心电图诊断之前，必须紧密结合临床资料进行鉴别诊断。
+除冠心病外，其他疾病如心肌病、心肌炎、瓣膜病、心包炎、脑血管意外（尤其颅内出血）等均可出现此类 ST-T改变。
+低钾、高钾等电解质紊乱，药物（洋地黄、奎尼丁等）影响以及自主神经调节障碍也可引起非特异性 ST-T改变。
+此外，心室肥厚、束支传导阻滞、预激综合征等可引起继发性ST-T改变。
+以下为临床上3种原因引起显著T波倒置的心电图表现。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Clinically,%20there%20are%20three%20causes%20of%20significant%20T-wave%20inversion%20of%20electrocardiograms.png)
+
+### 心肌梗死在心电图上有哪些表现
+绝大多数心肌梗死（myocardial infarction）是在冠状动脉粥样硬化基础上发生完全性或不完全性闭塞所致，属于冠心病的严重类型。
+除了出现心肌缺血的症状及心肌坏死标记物升高外，心电图的特征性改变对心肌梗死的诊断和治疗，以及判断患者的病情和预后起着重要作用。
+#### 心肌梗死的基本图形及机制是什么
+冠状动脉发生闭塞后，随着时间的推移在心电图上可先后出现缺血、损伤和坏死3种类型的图形。
+各部分心肌接受不同冠状动脉分支的血液供应，因此图形改变常具有明显的区域特点。
+心电图显示的电位变化是梗死后心肌多种心电变化综合的结果。
+##### "缺血型"改变
+冠状动脉急性闭塞后，最早出现的变化是缺血性T波改变。
+通常缺血最早出现在心内膜下肌层，使对向缺血区的导联出现高而直立的T波。
+若缺血发生在心外膜下肌层，则面向缺血区的导联出现T波倒置。
+缺血使心肌复极时间延长，特别是3位相延缓，引起QT间期延长。
+##### "损伤型"改变
+随着缺血时间延长，缺血程度进一步加重，就会出现"损伤型"图形改变，主要表现为面向损伤心肌的导联出现 ST段抬高。
+关于急性心肌缺血和心肌梗死引起 ST 段抬高的机制至今仍不十分清楚，通常认为与损伤电流有关。
+ST段明显抬高可形成单向曲线（mono-phasic curve）。
+一般地说损伤改变不会持久，要么恢复，要么进一步发生心肌坏死。
+常见的"损伤型"ST段抬高的形态变化见图。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20form%20in%20which%20the%20common%20%22damaged%22%20ST%20segment%20is%20raised.png)
+##### "坏死型"改变
+进一步的缺血导致细胞变性、坏死。
+坏死的心肌细胞丧失了电活动，该部位心肌不再产生心电向量，而正常健康心肌仍照常除极，致使产生一个与梗死部位相反的综合向量（对于心肌梗死，除极方向背离梗死区，复极方向指向梗死区）。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Necrosis%20Q-wave%20or%20QS%20wave%20occurrence%20mechanism.png)
+由于心肌梗死主要发生于室间隔或左心室壁心肌，往往引起起始0.03秒除极向量背离坏死区，所以"坏死型"图形改变主要表现为面向坏死区的导联出现异常Q波（时限≥0.03秒，振幅≥1/4R）或者呈 QS波。
+一般认为：梗死的心肌直径>20~30mm或厚度>5mm才可产生病理性Q波。
+临床上，当冠状动脉某一分支发生闭塞，则受损伤部位的心肌发生坏死，直接置于坏死区的电极记录到异常 Q波或 QS波；靠近坏死区周围受损心肌呈损伤型改变，记录到 ST 段抬高；而外边受损较轻的心肌呈缺血型改变，记录到T波倒置。
+体表心电图导联可同时记录到心肌缺血、损伤和坏死的图形改变。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/A%20characteristic%20change%20in%20electrocardiogram%20after%20acute%20myocardial%20infarction.png)
+因此，若上述3种改变同时存在，则急性心肌梗死的诊断基本确立。
+
+#### 心肌梗死的心电图演变及分期哪些特点
+急性心肌梗死发生后，心电图的变化随着心肌缺血、损伤、坏死的发展和恢复而呈现一定演变规律。
+根据心电图图形的演变过程和演变时间可分为超急性期、急性期、近期（亚急性期）和陈旧期（愈合期）。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20graphical%20evolution%20and%20staging%20of%20typical%20acute%20myocardial%20infarction.png)
+##### 超急性期（亦称超急性损伤期）
+急性心肌梗死发病数分钟后，首先出现短暂的心内膜下心肌缺血，心电图上产生高大的T波，以后迅速出现 ST段上斜型或弓背向上型抬高，与高耸直立T波相连。
+由于急性损伤性阻滞，可见 QRS振幅增高，并轻度增宽，但尚未出现异常Q波。
+这些表现一般仅持续数小时，此期若能及时进行干预和治疗，可避免发展为心肌梗死或使已发生梗死的范围趋于缩小。
+##### 急性期
+此期开始于梗死后数小时或数日，可持续到数周，心电图呈现一个动态演变过程。
+ST段呈弓背向上抬高，抬高显著者可形成单向曲线，继而逐渐下降；心肌坏死导致面向坏死区导联的R波振幅降低或丢失，出现异常 Q波或 QS波；T波由直立开始倒置，并逐渐加深。
+坏死型的Q波、损伤型的 ST 段抬高和缺血型的T波倒置在此期内可同时并存。
+##### 近期（亚急性期）
+出现于梗死后数周至数月，此期以坏死及缺血图形为主要特征。
+抬高的 ST段恢复至基线，缺血型T波由倒置较深逐渐变浅，坏死型Q波持续存在。
+##### 陈旧期（愈合期）
+常出现在急性心肌梗死数月之后，ST段和T波恢复正常或T波持续倒置、低平，趋于恒定不变，残留下坏死型的 Q波。
+理论上坏死型的 Q波将持续存在，但随着瘢痕组织的缩小和周围心肌的代偿性肥大，其范围在数年后有可能明显缩小。
+小范围梗死的图形改变有可能变得很不典型，异常的Q波甚至可消失。
+
+需要指出的是：
+近年来，急性心肌梗死的检测水平、诊断手段及治疗技术已取得突破性进展。
+通过对急性心肌梗死患者早期实施有效的治疗（溶栓、抗栓或介入性治疗等），已显著缩短整个病程，并可改变急性心肌梗死的心电图表现，可不再呈现上述典型的心电图演变过程。
+#### 心肌梗死的定位诊断及梗死相关血管的判断，其映射关系是什么样的
+冠状动脉的闭塞引起冠状动脉所分布区域的心肌供血中断并导致缺血坏死，即心肌梗死。
+心肌梗死的范围基本上与冠状动脉的分布一致。
+心肌梗死的部位主要根据心电图坏死型图形（异常Q波或 QS波）出现于哪些导联而作出判断。
+	前间壁梗死时，异常Q波或 QS波主要出现在V1~V3导联；
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/Acute%20frontal%20wall%20myocardial%20infarction.png)
+	前壁心肌梗死时，异常Q波或QS波主要出现在V3、V4（V5）导联；
+	侧壁心肌梗死时在Ⅰ、aVL、V5、V6导联出现异常Q波；
+	如异常	Q波仅出现在V5、V6导联称为前侧壁心肌梗死，如异常Q波仅出现在Ⅰ、aVL导联称为高侧壁心肌梗死；
+	下壁心肌梗死时，在Ⅱ Ⅲ、aVF导联出现异常 Q波或QS波；
+	正后壁心肌梗死时，V7、V8、V9导联记录到异常Q波或 QS 波，而与正后壁导联相对应的V1、V2导联出现 R波增高、ST段压低及 T波增高（称为对应性改变）。
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/Acute%20lower%20and%20rear%20wall%20myocardial%20infarction.png)
+	如果大部分胸导联（V1~V5）都出现异常 Q波或 QS波，则称为广泛前壁心肌梗死。
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/Acute%20extensive%20frontal%20myocardial%20infarction.png)
+	孤立的右心室心肌梗死很少见，常与下壁梗死并存。
+	发生急性下壁心肌梗死时，若V3R~V4R导联出现 ST段抬高≥0.1mV，提示还合并右心室心肌梗死。
+在急性心肌梗死发病早期（数小时内），尚未出现坏死型 Q波，心肌梗死的部位可根据 ST段抬高或压低，以及T波异常（增高或深倒置）出现于哪些导联来判断。
+由于发生心肌梗死的部位多与相应的冠状动脉发生闭塞相关，因此，根据心电图确定的梗死部位可大致确定与梗死相关的病变血管。
+	![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20relationship%20between%20electrocardiogram%20conduction%20and%20the%20blood%20supply%20area%20of%20the%20ventricle%20site%20and%20coronary%20artery.png)
+	前间壁或前壁心肌梗死常为左前降支发生闭塞；
+	侧壁和后壁同时发生梗死多为左回旋支发生闭塞；
+	下壁梗死大多为右冠状动脉闭塞，少数为左回旋支闭塞所致；
+	下壁梗死同时合并右心室梗死时，往往是右冠状动脉近段发生闭塞。
+
+#### 心肌梗死的分类和鉴别诊断有哪些
+##### Q波型和非Q波型心肌梗死
+非Q波型心肌梗死过去称为"非透壁性心肌梗死"或"心内膜下心肌梗死"。
+部分患者发生急性心肌梗死后，心电图可只表现为ST段抬高或压低及T波倒置，ST-T改变可呈规律性演变，但不出现异常Q波，需要根据临床表现及其他检查指标明确诊断。
+近年研究发现∶非Q波型的梗死既可为非透壁性，亦可为透壁性。
+与典型的Q波型心肌梗死比较，此种不典型的心肌梗死较多见于多支冠状动脉病变。
+此外，发生多部位梗死（不同部位的梗死向量相互作用发生抵消）、梗死范围弥漫或局限、梗死区位于心电图常规导联记录的盲区（如右心室、基底部、孤立正后壁梗死等）均可产生不典型的心肌梗死图形。
+##### ST段抬高型和非 ST段抬高型心肌梗死
+临床研究发现：ST段抬高型心肌梗死（ST-elevation myocardial infarction，STEMI）可以不出现Q波，而非 ST段抬高型梗死（non-ST-elevation myocardial infarction，NSTEMI）亦可出现Q波，心肌梗死后是否出现异常Q波通常是回顾性诊断。
+为了最大限度地改善心肌梗死患者的预后，近年把急性心肌梗死分类为 ST段抬高型和非 ST段抬高型梗死，并且与不稳定心绞痛一起统称为**急性冠脉综合征**。
+ST段抬高型梗死是指2个或2个以上相邻的导联出现 ST段抬高（ST段抬高的标准为：在V2~V3导联男性J点抬高≥0.2mV，女性抬高≥0.15mV，在其他导联男、女性J点抬高≥0.1mV）；
+![](https://gitee.com/fueryuanyi/picgo/raw/master/ST%20segment%20elevated%20myocardial%20infarction.png)
+非 ST段抬高型梗死是指心电图上表现为 ST段压低和（或）T波倒置、或无 ST-T异常。
+以ST 段的改变进行分类体现了对急性心肌梗死早期诊断、早期干预的理念。
+在坏死型Q 波出现之前及时进行干预（溶栓、抗栓、介入治疗等），可挽救濒临坏死的心肌或减小梗死面积。
+另外，ST段抬高型梗死和非ST段抬高型梗死两者的干预治疗策略不同，可以根据心电图上是否出现 ST段抬高而选择正确和合理的治疗方案。
+在作出 ST段抬高或非 ST段抬高心肌梗死诊断时，应该结合临床病史并注意排除其他原因引起的 ST 段改变。
+无论是 ST段抬高型梗死还是非ST 段抬高型梗死，若不及时进行干预治疗都可演变为Q波型或非 Q波型梗死。
+##### 心肌梗死合并其他病变
+1. 心肌梗死合并室壁瘤（多发生于左心室前壁）时，可见 ST段持续性抬高达数月以上（ST 段抬高幅度常≥0.2mV，同时伴有坏死型Q波或 QS波）。
+2. 心肌梗死合并右束支阻滞时，心室除极初始向量表现出心肌梗死特征，终末向量表现出右束支阻滞特点，一般不影响两者的诊断。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Acute%20myocardial%20infarction%20combined%20with%20right%20beam%20block.png)
+3. 在存在左束支阻滞的情况下，心肌梗死的图形常被掩盖，按常规的心肌梗死标准进行诊断比较困难。
+	不过，在急性心肌梗死的早期，通过观察 ST段的异常偏移（抬高或下移）及动态演变，仍可判断是否合并急性心肌缺血或心肌梗死。
+	在 QRS波群为正向（R波为主）的导联，出现ST段抬高≥0.1mV；在V1~V3导联，出现ST段压低≥0.1mV；在QRS波群为负向（S波为主）的导联，出现 ST段抬高≥0.5mV，均提示左束支阻滞可能合并急性心肌缺血或心肌梗死。
+##### 心肌梗死的鉴别诊断
+ST段抬高除了见于急性心肌梗死外，还可见于变异型心绞痛、急性心包炎、急性肺栓塞、主动脉夹层、急性心肌炎、高血钾、早期复极等，可根据病史、是否伴有异常Q波及典型 ST-T演变过程予以鉴别。
+异常Q波的出现不一定都提示为心肌梗死，例如发生感染或脑血管意外时，可出现短暂 QS或Q波，但缺乏典型演变过程，很快可以恢复正常。
+心脏横位可导致Ⅲ导联出现Q波，但Ⅱ导联通常正常。
+顺钟向转位、左心室肥厚及左束支阻滞时，V1、V2导联可出现QS波，但并非前间壁心肌梗死。
+预激综合征心电图在某些导联上可出现"Q"或"QS"波。
+此外，右心室肥厚、心肌病、心肌炎等也可出现异常Q波，结合患者的病史和临床资料一般不难鉴别。
+
+
+
+### 什么是心律失常
+正常人的心脏起搏点位于窦房结，并按正常传导系统顺序激动心房和心室。如果心脏激动的起源异常或/和传导异常，称为**心律失常（arrhythmias）**。
+心律失常的产生可由于：
+	1. 激动起源异常	可分为两类∶
+	- 窦房结起搏点本身激动的程序与规律异常。
+	- 心脏激动全部或部分起源于窦房结以外的部位，称为异位节律，异位节律又分为主动性和被动性。
+	2. 激动的传导异常
+	- 最多见的一类为传导阻滞，包括传导延缓或传导中断。
+	- 另一类为激动传导通过房室之间的附加异常旁路，使心肌某一部分提前激动，属传导途径异常。
+	3. 激动起源异常和激动传导异常同时存在，相互作用，此可引起复杂的心律失常表现。
+### 心律失常有哪些类型
+心律失常目前多按形成原因进行分类：
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Classification%20of%20arrhythmia.png)
+
+
+
+
+
+### 什么是窦性心律
+凡起源于窦房结的心律，称为窦性心律（sinus rhythm）。
+正常心率属于窦性心律。
+### 正常窦性心律的心电图特征有哪些
+一般心电图机描记不出窦房结激动电位，都是以窦性激动发出后引起的心房激动波P波特点来推测窦房结的活动。
+窦性心律的心电图特点为：
+- P波规律出现，且P波形态表明激动来自窦房结（即P波在Ⅰ、Ⅱ、aVF、V4~V6导联直立，在aVR导联倒置）。
+- 正常人窦性心律的频率呈生理性波动，传统上静息心率的正常范围一般定义为60~100次/分。
+- 近年，国内大样本健康人群调查发现∶国人男性静息心率的正常范围为50~95次/分，女性为55~95次/分。
+### 窦性心律失常在心电图上有哪些表现
+#### 窦性心动过速（sinus tachycardia）
+传统上规定成人窦性心律的频率>100次/分，称为窦性心动过速。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Sinus%20heart%20beats%20too%20fast.png)
+窦性心动过速时，PR 间期及 QT间期相应缩短，有时可伴有继发性ST 段轻度压低和T波振幅降低。
+常见于运动、精神紧张、发热、甲状腺功能亢进、贫血、失血、心肌炎和拟肾上腺素类药物作用等情况。
+#### 窦性心动过缓（sinus bradycardia）
+传统上规定窦性心律的频率<60次/分时，称为窦性心动过缓。
+近年大样本健康人群调查发现∶约15% 正常成人静息心率可<60次/分，尤其是男性。
+另外，老年人及运动员心率可以相对较缓。
+窦房结功能障碍、甲状腺功能低下、服用某些药物（例如 β-受体阻滞剂）等亦可引起窦性心动过缓。
+#### 窦性心律不齐（sinus arrhythmia）
+是指窦性心律的起源未变，但节律不整，在同一导联上PP间期差异>0.12秒。
+窦性心律不齐常与窦性心动过缓同时存在。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Sinus%20tacteria%20is%20too%20slow%20and%20sinus%20heart%20rhythm%20is%20not%20consistent.png)
+较常见的一类心律不齐与呼吸周期有关，称呼吸性窦性心律不齐，多见于青少年，一般无临床意义。
+另有一些比较少见的窦性心律不齐与呼吸无关，例如与心室收缩排血有关的（室相性）窦性心律不齐以及窦房结内游走性心律不齐等。
+#### 窦性停搏（sinus arrest）
+是指在规律的窦性心律中，有时因迷走神经张力增大或窦房结功能障碍，在一段时间内窦房结停止发放激动，心电图上见规则的 PP间距中突然出现P波脱落，形成长 PP间距，且长 PP间距与正常 PP间距不成倍数关系。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Sinus-like%20arrest.png)
+窦性停搏后常出现逸搏或逸搏心律。
+#### 病态窦房结综合征（sick sinus syndrome，SSS）
+近年发现，起搏传导系统退行性病变以及冠心病、心肌炎（尤其是病毒性心肌炎）、心肌病等疾患，可累及窦房结及其周围组织而产生一系列缓慢性心律失常，并引起头昏、黑朦、晕厥等临床表现，称为病态窦房结综合征。
+其主要的心电图表现有：
+- 持续的窦性心动过缓，心率<50次/分，且不易用阿托品等药物纠正。
+- 窦性停搏或窦房阻滞。
+- 在显著窦性心动过缓基础上，常出现室上性快速心律失常（房速、房扑、房颤等），又称为慢-快综合征。
+- 若病变同时累及房室交界区，可出现房室传导障碍，或发生窦性停搏时.长时间不出现交界性逸搏，此即称为双结病变。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Pathological%20sinus%20complex%20syndrome.png)
+
+### 什么是期前收缩
+期前收缩是指起源于窦房结以外的异位起搏点提前发出的激动，又称过早搏动，是临床上最常见的心律失常。
+期前收缩的产生机制包括
+1. 折返激动；
+2. 触发活动；
+3. 异位起搏点的兴奋性增高。
+
+根据异位搏动发生的部位，可分为房性、交界性和室性期前收缩，其中以室性期前收缩最为常见，房性次之，交界性比较少见。
+### 期前收缩在心电图上有哪些表现
+#### 描述期前收缩心电图特征时常用到下列术语：
+**联律间期（coupling interval）**
+>指异位搏动与其前窦性搏动之间的时距，折返途径与激动的传导速度等可影响联律间期长短。
+>房性期前收缩的联律间期应从异位P波起点测量至其前窦性P波起点，而室性期前收缩的联律间期应从异位搏动的 QRS起点测量至其前窦性 QRS起点。
+	
+**代偿间歇（compensatory pause）**
+>指期前出现的异位搏动代替了一个正常窦性搏动，其后出现一个较正常心动周期为长的间歇。
+>由于房性异位激动，常易逆传侵入窦房结，使其提前释放激动，引起窦房结节律重整，因此房性期前收缩大多为不完全性代偿间歇。
+>而交界性和室性期前收缩，距窦房结较远不易侵入窦房结，故往往表现为完全性代偿间歇。
+
+*间位性期前收缩*
+>又称插入性期前收缩，指夹在两个相邻正常窦性搏动之间的期前收缩，其后无代偿间歇。
+
+*单源性期前收缩*
+>指期前收缩来自同一异位起搏点或有固定的折返径路，其形态、联律间期相同。
+
+*多源性期前收缩*
+>指在同一导联中出现2种或2种以上形态及联律间期互不相同的异位搏动。
+>如联律间期固定，而形态各异，则称为多形性期前收缩，其临床意义与多源性期前收缩相似。
+
+*频发性期前收缩*
+>依据出现的频度可人为地分为偶发和频发性期前收缩。
+>常见的二联律（bigeminy）与三联律（trigeminy）就是一种有规律的频发性期前收缩。前者指期前收缩与窦性心搏交替出现；后者指每2个窦性心搏后出现1次期前收缩。
+#### 室性期前收缩（premature ventricular contraction） 心电图表现为：
+- 期前出现的QRS-T波前无P波或无相关的 P波；
+- 期前出现的 QRS形态宽大畸形，时限通常>0.12秒，T波方向多与QRS的主波方向相反；
+- 往往为完全性代偿间歇，即期前收缩前后的两个窦性 P波间距等于正常 PP间距的两倍。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Pre-chamber%20contraction.png)
+#### 房性期前收缩（premature atrial contraction）心电图表现为：
+- 期前出现的异位P'波，其形态与窦性P波不同；
+- P'R 间期>0.12秒；
+- 大多为不完全性代偿间歇，即期前收缩前后两个窦性P波的间距小于正常PP间距的两倍。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Pre-housing%20contraction.png)
+- 某些房性期前收缩的 P'R 间期可以延长；
+- 若异位 P'后无QRS-T波，则称为未下传的房性期前收缩；
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Untransplated%20pre-period%20contraction.png)
+- 有时易把未下传的房性期前收缩引起的长间期误认为是窦房阻滞、窦性停搏或窦性心律不齐，应注意鉴别；
+- 若异位 P'下传心室引起 ORS波群增宽变形，多呈右束支阻滞图形，称为房性期前收缩伴室内差异性传导。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Frequent%20pre-period%20contraction,%20part%20of%20the%20indoor%20differential%20conduction.png)
+#### 交界性期前收缩（premature junctional contraction）心电图表现为：
+- 期前出现的QRS-T波，其前无窦性P波，QRS-T形态与窦性下传者基本相同；
+- 出现逆行P'波（P波在Ⅱ、Ⅲ、aVF导联倒置，aVR导联直立），可发生于QRS波群之前（P'R间期<0.12秒）或ORS波群之后（RP'间期<0.20秒），或者与 QRS 相重叠；
+- 大多为完全性代偿间歇。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Pre-junction%20contraction.png)
+### 什么是异位心动过速
+异位性心动过速是指异位节律点兴奋性增高或折返激动引起的快速异位心律（期前收缩连续出现3次或3次以上）。
+根据异位节律点发生的部位，可分为房性、交界性及室性心动过速。
+### 异位心动过速在心电图上有哪些表现
+#### 阵发性室上性心动过速（paroxysmal supraventricular tachycardia）
+分为房性以及与房室交界区相关的心动过速，但常因P'不易辨别，故统称为室上性心动过速（室上速）。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/The%20ventricular%20tactant%20is%20too%20fast.png)
+该类心动过速发作时有突发、突止的特点，频率一般在160~250次/分，节律快而规则，QRS 形态一般正常（伴有束支阻滞或室内差异性传导时，可呈宽 QRS波心动过速）。
+临床上最常见的室上速类型为预激旁路引发的房室折返性心动过速（A-V reentry tachycardia，AVRT）以及房室结双径路（dual A-V nodal pathways）引发的房室结折返性心动过速（A-V nodal reentry tachycardia，AVNRT）。
+心动过速通常可由一个房性期前收缩诱发。
+两者发生的机制见图。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/A%20diagram%20of%20the%20mechanism%20of%20the%20room%20fold-back%20tycardial%20tactary%20overspeed%20and%20the%20room%20fold-back%20tantrance%20overspeed.png)
+这两类心动过速患者**多不具有器质性心脏病**，由于解部学定位比较明确。
+可通过导管射频消融术根治。
+房性心动过速包括自律性和房内折返性心动过速两种类型，**多发生于器质性心脏病**基础上。
+#### 室性心动过速（ventricular tachycardia）
+属于宽 QRS波心动过速类型，心电图表现为：
+1. 频率多在140~200次/分，节律可稍不齐；
+2. QRS波群形态宽大畸形，时限通常>0.12秒；
+3. 如能发现P波，并且P波频率慢于QRS波频率，PR 无固定关系（房室分离），则可明确诊断；
+4. 偶尔[心房激动夺获心室或发生室性融合波](https://baike.baidu.com/item/%E5%BF%83%E5%AE%A4%E5%A4%BA%E8%8E%B7/6868172)，也支持室性心动过速的诊断。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Chamber%20tactery%20is%20too%20fast.png)
+除了室性心动过速外，室上速伴心室内差异性传导，室上速伴原来存在束支阻滞或室内传导延迟，室上性心律失常（房速、房扑或房颤）经房室旁路前传，经房室旁路前传的房室折返性心动过速等，亦可表现为宽QRS 波心动过速类型，应注意鉴别诊断。
+#### 非阵发性心动过速（nonparoxysmal tachycardia）
+可发生在心房、房室交界区或心室，又称加速性房性、交界性或室性自主心律。
+此类心动过速发作多有渐起渐止的特点。
+心电图主要表现为：
+- 频率比逸搏心律快，比阵发性心动过速慢，交界性心律频率多为70~130次/分，室性心律频率多为60~100次/分。
+- 由于心动过速频率与窦性心律频率相近，易发生[干扰性房室脱节](https://xuewen.cnki.net/R2006120830000231.html)，并出现各种融合波或夺获心搏。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Non-burst%20ventricular%20tycardia.png)
+此类型心动过速的机制是异位起搏点自律性增高，多发生于器质性心脏病。
+#### 双向性室性心动过速（bidirectional ventricular tachycardia）
+是一种少见的心律失常，是室性心动过速的一种特殊类型。
+心电图的特征为：
+- 心动过速时，QRS波群的主波方向出现上、下交替改变。
+- ![](https://gitee.com/fueryuanyi/picgo/raw/master/Bi-directional%20ventricular%20tactery%20is%20too%20fast.png)
+此类心律失常通常见于洋地黄中毒。
+另外，儿茶酚胺敏感性多形性室性心动过速患者（心脏结构正常），发生心律失常时也常表现为此类典型的双向性室性心动过速。
+#### 扭转型室性心动过速（torsade de pointes，TDP）
+此类心动过速是一种严重的室性心律失常。
+发作时可见一系列增宽变形的 QRS波群，以每3~10个心搏围绕基线不断扭转其主波的正负方向，每次发作持续数秒到数十秒而自行终止，但极易复发或转为心室颤动。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Twisted%20chamber%20tulance%20is%20too%20fast.png)
+临床上表现为反复发作心源性晕厥或称为阿-斯综合征。
+临床上引起扭转型室性心动过速的常见原因有：
+1. 遗传性心律失常（离子通道功能异常），如先天性长 QT间期综合征等；
+2. 严重的房室阻滞，逸搏心律伴有巨大的T波；
+3. 低钾、低镁伴有异常的T波及u波；
+4. 某些药物（例如奎尼丁、伊布利特、胺碘酮等）所致。
+
+
+### 扑动、颤动在心电图上有哪些表现
+扑动、颤动可出现于心房或心室。
+主要的电生理基础为心肌的兴奋性增高，不应期缩短，同时伴有一定的传导障碍，形成环形激动及多发微折返。
+#### 心房扑动（atrial flutter，AFL）
+关于典型心房扑动的发生机制已比较清楚，属于房内大折返环路激动。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Diagram%20of%20the%20mechanism%20of%20atrial%20flutter.png)
+心房扑动大多为短阵发性，少数可呈持续性。
+总体而言，心房扑动不如心房颤动稳定，常可转为心房颤动或窦性心律。
+**心房扑动的心电图特点为：**
+正常P波消失，代之连续的锯齿状扑动波（F波），多数在Ⅱ、Ⅲ、aVF导联上清晰可见；
+F波间无等电位线，波幅大小一致，间隔规则，频率为 240~350次/分，大多不能全部下传，常以固定房室比例（2∶1或4∶1）下传，故心室律规则；
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Atrial%20flutter.png)
+如果房室传导比例不恒定或伴有[文氏传导现象](https://baike.baidu.com/item/%E6%96%87%E6%B0%8F%E7%8E%B0%E8%B1%A1/5823591)，则心室律可以不规则。
+心房扑动时 QRS 波时间一般不增宽。
+心房扑动如伴1∶1房室传导可引起严重的血流动力学改变，应及时处理。
+如果F波的大小和间距有差异，且频率>350次/分，称为不纯性心房扑动或非典型心房扑动。
+近年，对于典型的心房扑动通过射频消融三尖瓣环到下腔静脉口之间的峡部区域，可以阻断折返环，从而达到根治心房扑动的目的。
+#### 心房颤动（atrial fibrillation，AF）
+心房颤动是临床上很常见的心律失常。
+心房颤动可以是阵发性或持续性，大多发生在器质性心脏病基础上，多与心房扩大、心肌受损、心力衰竭等有关。
+但也有少部分房颤患者无明显器质性心脏病。
+发生心房颤动的机制比较复杂，至今仍未完全清楚，多数可能系多个小折返激动所致。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Schematic%20diagram%20of%20the%20mechanism%20of%20atrial%20fibrillation.png)
+近年的研究发现：一部分心房颤动可能是局灶触发机制（大多起源于肺静脉）。
+心房颤动时整个心房失去协调一致的收缩，心排血量降低，且易形成附壁血栓。
+**心房颤动的心电图特点为：**
+正常P波消失，代以大小不等、形状各异的颤动波（f波），通常以V1导联最明显；
+心房颤动波可较粗大，亦可较细小；
+房颤波的频率为350~600次/分；
+RR绝对不齐，QRS波一般不增宽。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Atrial%20fibrillation.png)
+若是前一个RR间距偏长而与下一个QRS波相距较近时，易出现一个增宽变形的QRS波，此可能是心房颤动伴有室内差异传导，并非室性期前收缩，应注意进行鉴别。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Atrial%20fibrillation%20with%20indoor%20differential%20conduction.png)
+持续性心房颤动患者，如果心电图上出现 RR 绝对规则，且心室率缓慢，常提示发生完全性房室阻滞。
+
+#### 心室扑动与心室颤动
+多数人认为心室扑动（ventricular flutter）是心室肌产生环形激动的结果。
+出现心室扑动一般具有两个条件：
+1. 心肌明显受损、缺氧或代谢失常。
+2. 异位激动落在[易颤期](https://baike.baidu.com/item/%E6%98%93%E9%A2%A4%E6%9C%9F/7546882)。
+
+**心电图特点是**：
+无正常 ORS-T波，代之以连续快速而相对规则的大振幅波动，频率达200~250次/分，心脏失去排血功能。
+心室扑动常不能持久，不是很快恢复，便会转为心室颤动而导致死亡。
+心室颤动（ventricular fibrillation）往往是心脏停搏前的短暂征象，也可以因急性心肌缺血或心电紊乱而发生。
+由于心脏出现多灶性局部兴奋，以致完全失去排血功能。
+心电图上QRS-T波完全消失，出现大小不等、极不匀齐的低小波，频率 200~500次/分。
+心室扑动和心室颤动均是极严重的致死性心律失常。
+![](https://gitee.com/fueryuanyi/picgo/raw/master/Ventricular%20flutter%20and%20fibrillation.png)
+
+
+### 心脏激动传导异常在心电图上有哪些表现
+心脏传导异常包括**病理性传导阻滞**、**生理性干扰脱节**及**传导途径异常**。
+#### 传导阻滞
+传导阻滞的病因可以是传导系统的器质性损害，也可能是迷走神经张力增高引起的功能性抑制或是药物作用及位相性影响。
+- 心脏传导阻滞（heart block）按发生的部位分为窦房阻滞、房内阻滞、房室阻滞和室内阻滞。
+- 按阻滞程度可分为一度（传导延缓）、二度（部分激动传导发生中断）和三度（传导完全中断）。
+- 按传导阻滞发生情况，可分为永久性、暂时性、交替性及渐进性。
+##### 窦房阻滞（sinoatrial block）
+常规心电图不能直接描记出窦房结电位，故一度窦房阻滞不能观察到。
+三度窦房阻滞难与窦性停搏相鉴别。
+只有二度窦房阻滞出现心房和心室漏搏（P-QRS-T均脱漏）时才能诊断。
+窦房传导逐渐延长，直至一次窦性激动不能传入心房，心电图表现为 PP间距逐渐缩短，于出现漏搏后PP间距又突然延长呈文氏现象，称为二度Ⅰ型窦房阻滞，此应与窦性心律不齐相鉴别。
+在规律的窦性 PP间距中突然出现一个长间歇，这一长间歇恰等于正常窦性 PP间距的倍数，此称二度Ⅱ型窦房阻滞。
+##### 房内阻滞（intra-atrial block）
+心房内有前、中、后三条结间束连接窦房结与房室结，同时也激动心房。
+连接右心房与左心房主要为上房间束（系前结间束的房间支，又称 Bachmann束）和下房间束。
+房内阻滞一般不产生心律不齐，以**不完全性房内阻滞**多见，主要是上房间束传导障碍。心电图表现为：
+- P波增宽≥0.12秒，出现双峰，切迹间距≥0.04秒，与左心房肥大的心电图表现相类似。
+**完全性房内传导阻滞**少见，其产生原因是局部心房肌周围形成传入、传出阻滞，引起心房分离。心电图表现为：
+- 在正常窦性P波之外，还可见与其无关的异位P'波或心房颤动波或心房扑动波，自成节律。
+##### 房室阻滞（atrioventricular block，AVB）
+是临床上常见的一种心脏传导阻滞。
+通常分析P与QRS波的关系可以了解房室传导情况。
+房室阻滞可发生在不同水平：
+- 在房内的结间束（尤其是前结间束）传导延缓即可引起PR间期延长；
+- 房室结和希氏束是常见的发生传导阻滞的部位；
+- 若左、右束支或三支（右束支及左束支的前、后分支）同时出现传导阻滞，也归于房室阻滞。
+- 阻滞部位愈低，潜在节律点的稳定性愈差，危险性也就愈大。
+准确地判断房室阻滞发生的部位需要借助于希氏束（His bundle）电图。
+房室阻滞多数是由器质性心脏病所致，少数可见于迷走神经张力增高的正常人及药物影响。
+**一度房室阻滞**
+	心电图主要表现为 PR 间期延长。
+	在成人若PR 间期>0.20秒（老年人PR 间期>0.22秒），或对两次检测结果进行比较，心率没有明显改变而PR间期延长超过0.04 秒，可诊断为一度房室阻滞。
+	PR 间期可随年龄、心率而变化，故诊断标准需相适应。
+**二度房室阻滞**
+	心电图主要表现为部分P波后QRS波脱漏，分两种类型：
+		1. 二度Ⅰ型房室阻滞（称 MorbizI型）
+		表现为P波规律地出现，PR间期逐渐延长（通常每次延长的绝对增加值多呈递减），直到P波下传受阻，脱漏1个QRS波群，漏搏后房室阻滞得到一定改善，PR 间期又趋缩短，之后又逐渐延长，如此周而复始地出现，称为文氏现象（Wenckebach phenomenon）。
+		通常以P波数与P波下传数的比例来表示房室阻滞的程度，例如4∶3传导表示4个P波中有3个P波下传心室，而只有1个P波不能下传。
+		2. 二度Ⅱ型房室阻滞（称Morbiz Ⅱ型）
+		表现为 PR间期恒定（正常或延长），部分P波后无 QRS波群。
+		一般认为，绝对不应期延长为二度Ⅱ型房室阻滞的主要电生理改变，且发生阻滞部位偏低。
+		凡连续出现2次或2次以上的QRS波群脱漏者（例如，呈3∶1、4∶1传导的房室阻滞），常称为高度房室阻滞。
+	二度Ⅰ型房室阻滞较Ⅱ型常见；
+	前者多为功能性或病变位于房室结或希氏束的近端，预后较好；
+	后者多属器质性损害，病变大多位于希氏束的远端或束支部位，易发展为完全性房室阻滞，预后较差。
+**三度房室阻滞**
+	又称完全性房室阻滞。
+	当来自房室交界区以上的激动完全不能通过阻滞部位时，在阻滞部位以下的潜在起搏点就会发放激动，出现交界性逸搏心律（QRS形态正常，频率一般为40~60次/分）或室性逸搏心律（QRS形态宽大畸形，频率一般为20~40次/分），以交界性逸搏心律为多见。
+	如出现室性逸搏心律，往往提示发生阻滞的部位较低。
+	发生三度房室阻滞时，心房与心室分别由两个不同的起搏点激动，各保持自身的节律，心电图上表现为：
+	P波与QRS波毫无关系（PR 间期不固定），心房率快于心室率。
+	如果偶尔出现P 波下传至心室，则称为几乎完全性房室阻滞。
+	
+	
+	
+
+##### 室内阻滞
+室内阻滞是指室上性的激动在心室内（希氏束分叉以下）传导过程中发生异常，从而导致 QRS波群时限延长及形态发生改变。
+这种心室内传导异常可以长期恒定不变、可以为暂时性、亦可呈频率依赖性（仅在快频率或慢频率情况下发生）。
+室内阻滞主要表现为束支阻滞及分支阻滞。
+希氏束穿膜进入心室后，在室间隔上方分为右束支和左束支分别支配右心室和左心室。
+左束支又分为左前分支和左后分支。
+它们可以分别发生不同程度的传导障碍。
+一侧束支阻滞时，激动从健侧心室跨越室间隔后再缓慢地激动阻滞一侧的心室，在时间上可延长40~60毫秒以上。
+根据 QRS波群的时限是否≥0.12秒而分为完全性和不完全性束支阻滞。
+所谓完全性束支阻滞并不意味在该束支上激动绝对不能传导，只要两侧束支激动的传导时间差别超过 40 毫秒以上，延迟传导一侧的心室就会被对侧传导过来的激动所激动，从而表现出完全性束支阻滞的图形改变。
+左、右束支及左束支分支不同程度的传导障碍，还可分别构成不同组合及复杂的束支阻滞类型。
+###### 右束支阻滞（right bundle branch block，RBBB）
+右束支细长，主要由左前降支供血，其不应期一般比左束支长，发生阻滞较多见。
+右束支阻滞可以发生在各种器质性心脏病，也可见于健康人。
+右束支阻滞时，心室除极仍始于室间隔中部，自左向右方向除极，接着通过普肯耶纤维正常快速激动左心室，最后通过缓慢的心室肌传导激动右心室。
+因此QRS波群前半部接近正常，主要表现在后半部 QRS时间延迟、形态发生改变。
+完全性右束支阻滞的心电图表现：
+- 成人 QRS波群时间≥0.12秒。
+- V1或V2导联QRS呈 rsR'型或 M形，此为最具特征性的改变；Ⅰ、V5、V6导联S波增宽而有切迹，其时限≥0.04秒；aVR导联呈 QR型，其R波宽而有切迹。
+- V1导联 R峰时间>0.05秒；
+- V1、V2导联ST段轻度压低，T波倒置；
+- Ⅰ、V5、V6导联T波方向与终末S波方向相反，仍为直立。
+- 右束支阻滞时，在不合并左前分支阻滞或左后分支阻滞的情况下，QRS心电轴一般仍在正常范围。
+- 若QRS形态和完全性右束支阻滞相似，但QRS波群时间<0.12秒，则诊断为不完全性右束支阻滞。
+- 在存在右束支阻滞的情况下，若出现心电轴明显右偏（>+110°）;V1导联 R'波振幅明显增高（>1.5mV））;V5、V6导联的S波明显加深（>0.5mV），提示可能合并右心室肥厚。
+###### 左束支阻滞（left bundle branch block，LBBB）
+左束支粗而短，由双侧冠状动脉分支供血，不易发生传导阻滞。
+如有发生，大多为器质性病变所致。
+左束支阻滞时，激动沿右束支下传至右心室前乳头肌根部才开始向不同方面扩布，引起心室除极顺序从开始就发生一系列改变。
+由于初始室间隔除极变为右向左方向除极，导致Ⅰ、V5、V6导联正常室间隔除极波（q波）消失；左心室除极不是通过普肯耶纤维激动，而是通过心室肌缓慢传导激动，故心室除极时间明显延长。
+心室除极向量主要向左后，其QRS向量中部及终末部除极过程缓慢，使QRS 主波（R或S波）增宽、粗钝或有切迹。
+**完全性左束支阻滞的心电图表现**：
+	成人 QRS波群时间≥0.12秒；
+	V1、V2导联呈rS波（其r 波极小，S波明显加深增宽）或呈宽而深的QS波；Ⅰ、aVL、V5、V6导联R波增宽、顶峰粗钝或有切迹；
+	Ⅰ、V5、V6导联q波一般消失；
+	V5、V6导联R峰时间>0.06秒；
+	ST-T方向通常与 QRS 波群主波方向相反。
+	有时在 QRS波群为正向（R波为主）的导联上亦可表现为直立的T波。
+	左束支阻滞时，QRS心电轴可以在正常范围或向左上偏移，也可出现电轴右偏。
+若QRS波群时间<0.12秒，则诊断为不完全性左束支阻滞，其图形与左心室肥厚的心电图表现十分相似，两者鉴别有时比较困难。
+多数左束支阻滞患者都有解剖学上的左心室肥厚。
+心电图上若出现左心房异常的P波改变;QRS波群时限明显延长（>155毫秒）；胸导联QRS波群电压明显增加（V2导联的 S波振幅与V.6导联的R波振幅之和>4.5mV），往往提示可能合并左心室肥厚。
+###### 非特异性室内阻滞（nonspecific intrayentricular conduction disturbance）
+若成人 QRS 波群时限超过0.11秒，但心电图图形既不符合左束支阻滞的标准又不符合右束支阻滞的标准，称为非特异性室内阻滞。
+
+###### 左前分支阻滞（left anterior fascicular block，LAFB）
+左前分支细长，支配左心室左前上方，主要由左前降支供血，易发生传导障碍。
